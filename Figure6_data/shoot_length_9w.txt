@@ -1,0 +1,260 @@
+Length	Compartment	time	Inoculum	replicate_no.	Nitrate_supplement	Flower
+3.344	shoot	9	NC	1	none	no
+2.756	shoot	9	NC	1	none	no
+2.724	shoot	9	NC	1	none	no
+4.181	shoot	9	NC	1	none	no
+3.266	shoot	9	NC	1	none	no
+3.066	shoot	9	NC	2	none	no
+3.626	shoot	9	NC	2	none	no
+3.712	shoot	9	NC	2	none	no
+3.364	shoot	9	NC	2	none	no
+3.363	shoot	9	NC	2	none	no
+9.907	shoot	9	SC	1	3 mM KNO3	no
+6.91	shoot	9	SC	1	3 mM KNO3	no
+11.378	shoot	9	SC	1	3 mM KNO3	no
+8.638	shoot	9	SC	1	3 mM KNO3	no
+9.742	shoot	9	SC	1	3 mM KNO3	no
+12.384	shoot	9	SC	2	3 mM KNO3	no
+6.462	shoot	9	SC	2	3 mM KNO3	no
+9.626	shoot	9	SC	2	3 mM KNO3	no
+11.618	shoot	9	SC	2	3 mM KNO3	no
+11.023	shoot	9	SC	2	3 mM KNO3	no
+15.425	shoot	9	SC	3	3 mM KNO3	no
+9.514	shoot	9	SC	3	3 mM KNO3	no
+16.726	shoot	9	SC	3	3 mM KNO3	no
+15.179	shoot	9	SC	3	3 mM KNO3	no
+13.119	shoot	9	SC	3	3 mM KNO3	no
+10.207	shoot	9	SC	4	3 mM KNO3	no
+8.948	shoot	9	SC	4	3 mM KNO3	no
+9.283	shoot	9	SC	4	3 mM KNO3	no
+11.175	shoot	9	SC	4	3 mM KNO3	no
+14.561	shoot	9	SC	4	3 mM KNO3	no
+10.389	shoot	9	SC	5	3 mM KNO3	no
+9.509	shoot	9	SC	5	3 mM KNO3	no
+9.027	shoot	9	SC	5	3 mM KNO3	no
+11.815	shoot	9	SC	5	3 mM KNO3	no
+9.566	shoot	9	SC	5	3 mM KNO3	no
+14.246	shoot	9	SC	6	3 mM KNO3	no
+8.465	shoot	9	SC	6	3 mM KNO3	no
+11.973	shoot	9	SC	6	3 mM KNO3	no
+10.318	shoot	9	SC	6	3 mM KNO3	no
+12.261	shoot	9	SC	6	3 mM KNO3	no
+2.869	shoot	9	SC	1	none	no
+2.204	shoot	9	SC	1	none	no
+2.69	shoot	9	SC	1	none	no
+2.312	shoot	9	SC	1	none	no
+2.395	shoot	9	SC	1	none	no
+2.982	shoot	9	SC	2	none	no
+3.018	shoot	9	SC	2	none	no
+2.493	shoot	9	SC	2	none	no
+2.116	shoot	9	SC	2	none	no
+2.978	shoot	9	SC	2	none	no
+2.929	shoot	9	SC	3	none	no
+2.672	shoot	9	SC	3	none	no
+2.645	shoot	9	SC	3	none	no
+2.718	shoot	9	SC	3	none	no
+2.453	shoot	9	SC	3	none	no
+3.012	shoot	9	SC	4	none	no
+3.236	shoot	9	SC	4	none	no
+3.924	shoot	9	SC	4	none	no
+2.783	shoot	9	SC	4	none	no
+3.338	shoot	9	SC	4	none	no
+3.115	shoot	9	SC	5	none	no
+3.792	shoot	9	SC	5	none	no
+3.001	shoot	9	SC	5	none	no
+1.971	shoot	9	SC	5	none	no
+1.81	shoot	9	SC	5	none	no
+3.033	shoot	9	SC	6	none	no
+2.551	shoot	9	SC	6	none	no
+2.604	shoot	9	SC	6	none	no
+1.832	shoot	9	SC	6	none	no
+2.156	shoot	9	SC	6	none	no
+2.527	shoot	9	SC+R7AnifH	1	none	no
+3.371	shoot	9	SC+R7AnifH	1	none	no
+3.289	shoot	9	SC+R7AnifH	1	none	no
+3.293	shoot	9	SC+R7AnifH	1	none	no
+2.1	shoot	9	SC+R7AnifH	1	none	no
+3.066	shoot	9	SC+R7AnifH	2	none	no
+3.529	shoot	9	SC+R7AnifH	2	none	no
+3.962	shoot	9	SC+R7AnifH	2	none	no
+3.444	shoot	9	SC+R7AnifH	2	none	no
+3.721	shoot	9	SC+R7AnifH	2	none	no
+4.176	shoot	9	SC+R7AnifH	3	none	no
+4.419	shoot	9	SC+R7AnifH	3	none	no
+3.256	shoot	9	SC+R7AnifH	3	none	no
+3.291	shoot	9	SC+R7AnifH	3	none	no
+2.855	shoot	9	SC+R7AnifH	3	none	no
+3.573	shoot	9	SC+R7AnifH	4	none	no
+4.256	shoot	9	SC+R7AnifH	4	none	no
+2.945	shoot	9	SC+R7AnifH	4	none	no
+2.743	shoot	9	SC+R7AnifH	4	none	no
+3.781	shoot	9	SC+R7AnifH	4	none	no
+3.046	shoot	9	SC+R7AnifH	5	none	no
+2.28	shoot	9	SC+R7AnifH	5	none	no
+3.579	shoot	9	SC+R7AnifH	5	none	no
+2.867	shoot	9	SC+R7AnifH	5	none	no
+2.963	shoot	9	SC+R7AnifH	5	none	no
+2.635	shoot	9	SC+R7AnifH	6	none	no
+2.633	shoot	9	SC+R7AnifH	6	none	no
+2.964	shoot	9	SC+R7AnifH	6	none	no
+3.289	shoot	9	SC+R7AnifH	6	none	no
+2.996	shoot	9	SC+R7AnifH	6	none	no
+10.016	shoot	9	SC+R7AnifH	1	3 mM KNO3	no
+8.399	shoot	9	SC+R7AnifH	1	3 mM KNO3	no
+13.376	shoot	9	SC+R7AnifH	1	3 mM KNO3	no
+12.692	shoot	9	SC+R7AnifH	1	3 mM KNO3	no
+11.091	shoot	9	SC+R7AnifH	1	3 mM KNO3	no
+12.408	shoot	9	SC+R7AnifH	2	3 mM KNO3	no
+10.081	shoot	9	SC+R7AnifH	2	3 mM KNO3	no
+10.7	shoot	9	SC+R7AnifH	2	3 mM KNO3	no
+14.158	shoot	9	SC+R7AnifH	2	3 mM KNO3	no
+14.208	shoot	9	SC+R7AnifH	2	3 mM KNO3	no
+14.091	shoot	9	SC+R7AnifH	3	3 mM KNO3	no
+14.107	shoot	9	SC+R7AnifH	3	3 mM KNO3	no
+11.912	shoot	9	SC+R7AnifH	3	3 mM KNO3	no
+15.066	shoot	9	SC+R7AnifH	3	3 mM KNO3	no
+14.829	shoot	9	SC+R7AnifH	3	3 mM KNO3	no
+11.333	shoot	9	SC+R7AnifH	4	3 mM KNO3	no
+13.238	shoot	9	SC+R7AnifH	4	3 mM KNO3	no
+13.582	shoot	9	SC+R7AnifH	4	3 mM KNO3	no
+15.648	shoot	9	SC+R7AnifH	4	3 mM KNO3	no
+13.569	shoot	9	SC+R7AnifH	4	3 mM KNO3	no
+11.933	shoot	9	SC+R7AnifH	5	3 mM KNO3	no
+13.154	shoot	9	SC+R7AnifH	5	3 mM KNO3	no
+12.893	shoot	9	SC+R7AnifH	5	3 mM KNO3	no
+12.134	shoot	9	SC+R7AnifH	5	3 mM KNO3	no
+16.146	shoot	9	SC+R7AnifH	5	3 mM KNO3	no
+14.849	shoot	9	SC+R7AnifH	6	3 mM KNO3	no
+11.531	shoot	9	SC+R7AnifH	6	3 mM KNO3	no
+12.446	shoot	9	SC+R7AnifH	6	3 mM KNO3	no
+11.921	shoot	9	SC+R7AnifH	6	3 mM KNO3	no
+13.877	shoot	9	SC+R7AnifH	6	3 mM KNO3	no
+11.385	shoot	9	NC	1	3 mM KNO3	no
+11.142	shoot	9	NC	1	3 mM KNO3	no
+10.719	shoot	9	NC	1	3 mM KNO3	no
+9.552	shoot	9	NC	1	3 mM KNO3	no
+11.236	shoot	9	NC	1	3 mM KNO3	no
+13.026	shoot	9	NC	2	3 mM KNO3	no
+13.685	shoot	9	NC	2	3 mM KNO3	no
+11.502	shoot	9	NC	2	3 mM KNO3	no
+13.045	shoot	9	NC	2	3 mM KNO3	no
+14.19	shoot	9	NC	2	3 mM KNO3	no
+10.713	shoot	9	SC+R7AnodC	1	3 mM KNO3	no
+11.103	shoot	9	SC+R7AnodC	1	3 mM KNO3	no
+8.561	shoot	9	SC+R7AnodC	1	3 mM KNO3	no
+8.429	shoot	9	SC+R7AnodC	1	3 mM KNO3	no
+9.023	shoot	9	SC+R7AnodC	1	3 mM KNO3	no
+12.007	shoot	9	SC+R7AnodC	2	3 mM KNO3	no
+9.865	shoot	9	SC+R7AnodC	2	3 mM KNO3	no
+11.144	shoot	9	SC+R7AnodC	2	3 mM KNO3	no
+10.159	shoot	9	SC+R7AnodC	2	3 mM KNO3	no
+12.282	shoot	9	SC+R7AnodC	2	3 mM KNO3	no
+10.497	shoot	9	SC+R7AnodC	3	3 mM KNO3	no
+14.573	shoot	9	SC+R7AnodC	3	3 mM KNO3	no
+16.93	shoot	9	SC+R7AnodC	3	3 mM KNO3	no
+12.271	shoot	9	SC+R7AnodC	3	3 mM KNO3	no
+10.347	shoot	9	SC+R7AnodC	3	3 mM KNO3	no
+11.381	shoot	9	SC+R7AnodC	4	3 mM KNO3	no
+15.377	shoot	9	SC+R7AnodC	4	3 mM KNO3	no
+14.383	shoot	9	SC+R7AnodC	4	3 mM KNO3	no
+9.818	shoot	9	SC+R7AnodC	4	3 mM KNO3	no
+9.244	shoot	9	SC+R7AnodC	4	3 mM KNO3	no
+6.712	shoot	9	SC+R7AnodC	5	3 mM KNO3	no
+13.903	shoot	9	SC+R7AnodC	5	3 mM KNO3	no
+10.885	shoot	9	SC+R7AnodC	5	3 mM KNO3	no
+8.866	shoot	9	SC+R7AnodC	5	3 mM KNO3	no
+11.697	shoot	9	SC+R7AnodC	5	3 mM KNO3	no
+14.85	shoot	9	SC+R7AnodC	6	3 mM KNO3	no
+9.512	shoot	9	SC+R7AnodC	6	3 mM KNO3	no
+10.283	shoot	9	SC+R7AnodC	6	3 mM KNO3	no
+13.659	shoot	9	SC+R7AnodC	6	3 mM KNO3	no
+11.048	shoot	9	SC+R7AnodC	6	3 mM KNO3	no
+2.13	shoot	9	SC+R7AnodC	1	none	no
+2.34	shoot	9	SC+R7AnodC	1	none	no
+2.232	shoot	9	SC+R7AnodC	1	none	no
+2.406	shoot	9	SC+R7AnodC	1	none	no
+2.368	shoot	9	SC+R7AnodC	1	none	no
+2.989	shoot	9	SC+R7AnodC	2	none	no
+2.855	shoot	9	SC+R7AnodC	2	none	no
+3.018	shoot	9	SC+R7AnodC	2	none	no
+2.565	shoot	9	SC+R7AnodC	2	none	no
+2.138	shoot	9	SC+R7AnodC	2	none	no
+2.042	shoot	9	SC+R7AnodC	3	none	no
+2.24	shoot	9	SC+R7AnodC	3	none	no
+2.984	shoot	9	SC+R7AnodC	3	none	no
+2.528	shoot	9	SC+R7AnodC	3	none	no
+2.333	shoot	9	SC+R7AnodC	3	none	no
+2.501	shoot	9	SC+R7AnodC	4	none	no
+2.678	shoot	9	SC+R7AnodC	4	none	no
+2.215	shoot	9	SC+R7AnodC	4	none	no
+2.139	shoot	9	SC+R7AnodC	4	none	no
+2.174	shoot	9	SC+R7AnodC	5	none	no
+2.62	shoot	9	SC+R7AnodC	5	none	no
+2.678	shoot	9	SC+R7AnodC	5	none	no
+2.844	shoot	9	SC+R7AnodC	5	none	no
+3.232	shoot	9	SC+R7AnodC	5	none	no
+2.386	shoot	9	SC+R7AnodC	6	none	no
+2.604	shoot	9	SC+R7AnodC	6	none	no
+2.988	shoot	9	SC+R7AnodC	6	none	no
+3.019	shoot	9	SC+R7AnodC	6	none	no
+2.537	shoot	9	SC+R7AnodC	6	none	no
+12.069	shoot	9	SC+R7A	1	none	no
+9.302	shoot	9	SC+R7A	1	none	no
+10.978	shoot	9	SC+R7A	1	none	no
+10.488	shoot	9	SC+R7A	1	none	no
+11.885	shoot	9	SC+R7A	1	none	no
+11.939	shoot	9	SC+R7A	2	none	no
+7.808	shoot	9	SC+R7A	2	none	no
+9.407	shoot	9	SC+R7A	2	none	no
+12.836	shoot	9	SC+R7A	2	none	no
+9.62	shoot	9	SC+R7A	2	none	no
+8.501	shoot	9	SC+R7A	3	none	no
+8.596	shoot	9	SC+R7A	3	none	no
+11.671	shoot	9	SC+R7A	3	none	no
+11.877	shoot	9	SC+R7A	3	none	no
+7.268	shoot	9	SC+R7A	3	none	no
+10.08	shoot	9	SC+R7A	4	none	no
+12.923	shoot	9	SC+R7A	4	none	no
+13.769	shoot	9	SC+R7A	4	none	no
+15.913	shoot	9	SC+R7A	4	none	no
+14.631	shoot	9	SC+R7A	4	none	no
+11.366	shoot	9	SC+R7A	5	none	no
+11.075	shoot	9	SC+R7A	5	none	no
+12.073	shoot	9	SC+R7A	5	none	no
+12.64	shoot	9	SC+R7A	5	none	no
+11.449	shoot	9	SC+R7A	5	none	no
+4.637	shoot	9	SC+R7A	6	none	no
+4.492	shoot	9	SC+R7A	6	none	no
+4.485	shoot	9	SC+R7A	6	none	no
+22.434	shoot	9	SC+R7A	6	none	yes
+20.348	shoot	9	SC+R7A	6	none	yes
+12.857	shoot	9	SC+R7A	1	3 mM KNO3	no
+13.336	shoot	9	SC+R7A	1	3 mM KNO3	no
+14.04	shoot	9	SC+R7A	1	3 mM KNO3	no
+12.816	shoot	9	SC+R7A	1	3 mM KNO3	no
+12.749	shoot	9	SC+R7A	1	3 mM KNO3	no
+8.528	shoot	9	SC+R7A	2	3 mM KNO3	no
+10.877	shoot	9	SC+R7A	2	3 mM KNO3	no
+10.705	shoot	9	SC+R7A	2	3 mM KNO3	no
+9.619	shoot	9	SC+R7A	2	3 mM KNO3	no
+12.222	shoot	9	SC+R7A	2	3 mM KNO3	no
+10.706	shoot	9	SC+R7A	3	3 mM KNO3	no
+12.178	shoot	9	SC+R7A	3	3 mM KNO3	no
+11.629	shoot	9	SC+R7A	3	3 mM KNO3	no
+13.775	shoot	9	SC+R7A	3	3 mM KNO3	no
+9.917	shoot	9	SC+R7A	3	3 mM KNO3	no
+14.448	shoot	9	SC+R7A	4	3 mM KNO3	no
+8.949	shoot	9	SC+R7A	4	3 mM KNO3	no
+10.887	shoot	9	SC+R7A	4	3 mM KNO3	no
+9.841	shoot	9	SC+R7A	4	3 mM KNO3	no
+12.908	shoot	9	SC+R7A	4	3 mM KNO3	no
+14.732	shoot	9	SC+R7A	5	3 mM KNO3	no
+10.813	shoot	9	SC+R7A	5	3 mM KNO3	no
+10.043	shoot	9	SC+R7A	5	3 mM KNO3	no
+10.755	shoot	9	SC+R7A	5	3 mM KNO3	no
+13.2	shoot	9	SC+R7A	5	3 mM KNO3	no
+7.238	shoot	9	SC+R7A	6	3 mM KNO3	no
+10.337	shoot	9	SC+R7A	6	3 mM KNO3	no
+11.279	shoot	9	SC+R7A	6	3 mM KNO3	no
+13.108	shoot	9	SC+R7A	6	3 mM KNO3	no
+12.9	shoot	9	SC+R7A	6	3 mM KNO3	no

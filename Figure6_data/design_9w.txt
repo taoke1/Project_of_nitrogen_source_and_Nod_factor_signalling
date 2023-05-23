@@ -1,0 +1,108 @@
+SampleID	Time	Compartment	Inoculum	Nitrate_supplement	Replicate	NF
+9w.r.4.1	9 wpi	root	SC	none	1	NF-
+9w.r.4.2	9 wpi	root	SC	none	2	NF-
+9w.r.4.3	9 wpi	root	SC	none	3	NF-
+9w.r.4.4	9 wpi	root	SC	none	4	NF-
+9w.r.4N.3	9 wpi	root	SC	3 mM KNO3	3	NF-
+9w.r.4N.4	9 wpi	root	SC	3 mM KNO3	4	NF-
+9w.rh.4.1	9 wpi	rhizosphere	SC	none	1	NF-
+9w.rh.4.2	9 wpi	rhizosphere	SC	none	2	NF-
+9w.rh.4.3	9 wpi	rhizosphere	SC	none	3	NF-
+9w.rh.4.4	9 wpi	rhizosphere	SC	none	4	NF-
+9w.rh.4N.1	9 wpi	rhizosphere	SC	3 mM KNO3	1	NF-
+9w.rh.4N.2	9 wpi	rhizosphere	SC	3 mM KNO3	2	NF-
+9w.rh.4N.3	9 wpi	rhizosphere	SC	3 mM KNO3	3	NF-
+9w.rh.4N.4	9 wpi	rhizosphere	SC	3 mM KNO3	4	NF-
+C.9w.4.1	9 wpi	control	SC	none	1	NF-
+C.9w.4.2	9 wpi	control	SC	none	2	NF-
+C.9w.4.3	9 wpi	control	SC	none	3	NF-
+C.9w.4N.1	9 wpi	control	SC	3 mM KNO3	1	NF-
+C.9w.4N.2	9 wpi	control	SC	3 mM KNO3	2	NF-
+C.9w.4N.3	9 wpi	control	SC	3 mM KNO3	3	NF-
+N.SC.1	inoculum	inoculum	SC	3 mM KNO3	1	NF-
+N.SC.2	inoculum	inoculum	SC	3 mM KNO3	2	NF-
+N.SC.3	inoculum	inoculum	SC	3 mM KNO3	3	NF-
+SC.1	inoculum	inoculum	SC	none	1	NF-
+SC.2	inoculum	inoculum	SC	none	2	NF-
+SC.3	inoculum	inoculum	SC	none	3	NF-
+9w.r.1.1	9 wpi	root	SC+R7A	none	1	NF+
+9w.r.1.2	9 wpi	root	SC+R7A	none	2	NF+
+9w.r.1.4	9 wpi	root	SC+R7A	none	4	NF+
+9w.r.1N.1	9 wpi	root	SC+R7A	3 mM KNO3	1	NF+
+9w.r.1N.3	9 wpi	root	SC+R7A	3 mM KNO3	3	NF+
+9w.r.1N.4	9 wpi	root	SC+R7A	3 mM KNO3	4	NF+
+9w.rh.1.1	9 wpi	rhizosphere	SC+R7A	none	1	NF+
+9w.rh.1.2	9 wpi	rhizosphere	SC+R7A	none	2	NF+
+9w.rh.1.3	9 wpi	rhizosphere	SC+R7A	none	3	NF+
+9w.rh.1.4	9 wpi	rhizosphere	SC+R7A	none	4	NF+
+9w.rh.1N.1	9 wpi	rhizosphere	SC+R7A	3 mM KNO3	1	NF+
+9w.rh.1N.2	9 wpi	rhizosphere	SC+R7A	3 mM KNO3	2	NF+
+9w.rh.1N.3	9 wpi	rhizosphere	SC+R7A	3 mM KNO3	3	NF+
+9w.rh.1N.4	9 wpi	rhizosphere	SC+R7A	3 mM KNO3	4	NF+
+C.9w.1.1	9 wpi	control	SC+R7A	none	1	NF+
+C.9w.1.2	9 wpi	control	SC+R7A	none	2	NF+
+C.9w.1.3	9 wpi	control	SC+R7A	none	3	NF+
+C.9w.1N.1	9 wpi	control	SC+R7A	3 mM KNO3	1	NF+
+C.9w.1N.2	9 wpi	control	SC+R7A	3 mM KNO3	2	NF+
+C.9w.1N.3	9 wpi	control	SC+R7A	3 mM KNO3	3	NF+
+N.SC.R7A.1	inoculum	inoculum	SC+R7A	3 mM KNO3	1	NF+
+N.SC.R7A.2	inoculum	inoculum	SC+R7A	3 mM KNO3	2	NF+
+N.SC.R7A.3	inoculum	inoculum	SC+R7A	3 mM KNO3	3	NF+
+SC.R7A.1	inoculum	inoculum	SC+R7A	none	1	NF+
+SC.R7A.2	inoculum	inoculum	SC+R7A	none	2	NF+
+SC.R7A.3	inoculum	inoculum	SC+R7A	none	3	NF+
+9w.r.3.1	9 wpi	root	SC+R7AnifH	none	1	NF+
+9w.r.3.2	9 wpi	root	SC+R7AnifH	none	2	NF+
+9w.r.3.3	9 wpi	root	SC+R7AnifH	none	3	NF+
+9w.r.3.4	9 wpi	root	SC+R7AnifH	none	4	NF+
+9w.r.3N.1	9 wpi	root	SC+R7AnifH	3 mM KNO3	1	NF+
+9w.r.3N.2	9 wpi	root	SC+R7AnifH	3 mM KNO3	2	NF+
+9w.r.3N.3	9 wpi	root	SC+R7AnifH	3 mM KNO3	3	NF+
+9w.r.3N.4	9 wpi	root	SC+R7AnifH	3 mM KNO3	4	NF+
+9w.rh.3.1	9 wpi	rhizosphere	SC+R7AnifH	none	1	NF+
+9w.rh.3.2	9 wpi	rhizosphere	SC+R7AnifH	none	2	NF+
+9w.rh.3.3	9 wpi	rhizosphere	SC+R7AnifH	none	3	NF+
+9w.rh.3.4	9 wpi	rhizosphere	SC+R7AnifH	none	4	NF+
+9w.rh.3N.1	9 wpi	rhizosphere	SC+R7AnifH	3 mM KNO3	1	NF+
+9w.rh.3N.2	9 wpi	rhizosphere	SC+R7AnifH	3 mM KNO3	2	NF+
+9w.rh.3N.3	9 wpi	rhizosphere	SC+R7AnifH	3 mM KNO3	3	NF+
+9w.rh.3N.4	9 wpi	rhizosphere	SC+R7AnifH	3 mM KNO3	4	NF+
+C.9w.3.1	9 wpi	control	SC+R7AnifH	none	1	NF+
+C.9w.3.2	9 wpi	control	SC+R7AnifH	none	2	NF+
+C.9w.3.3	9 wpi	control	SC+R7AnifH	none	3	NF+
+C.9w.3N.1	9 wpi	control	SC+R7AnifH	3 mM KNO3	1	NF+
+C.9w.3N.2	9 wpi	control	SC+R7AnifH	3 mM KNO3	2	NF+
+C.9w.3N.3	9 wpi	control	SC+R7AnifH	3 mM KNO3	3	NF+
+N.SC.R7AnifH.1	inoculum	inoculum	SC+R7AnifH	3 mM KNO3	1	NF+
+N.SC.R7AnifH.2	inoculum	inoculum	SC+R7AnifH	3 mM KNO3	2	NF+
+N.SC.R7AnifH.3	inoculum	inoculum	SC+R7AnifH	3 mM KNO3	3	NF+
+SC.R7AnifH.1	inoculum	inoculum	SC+R7AnifH	none	1	NF+
+SC.R7AnifH.2	inoculum	inoculum	SC+R7AnifH	none	2	NF+
+SC.R7AnifH.3	inoculum	inoculum	SC+R7AnifH	none	3	NF+
+9w.r.2.2	9 wpi	root	SC+R7AnodC	none	2	NF-
+9w.r.2.3	9 wpi	root	SC+R7AnodC	none	3	NF-
+9w.r.2.4	9 wpi	root	SC+R7AnodC	none	4	NF-
+9w.r.2N.1	9 wpi	root	SC+R7AnodC	3 mM KNO3	1	NF-
+9w.r.2N.2	9 wpi	root	SC+R7AnodC	3 mM KNO3	2	NF-
+9w.r.2N.3	9 wpi	root	SC+R7AnodC	3 mM KNO3	3	NF-
+9w.r.2N.4	9 wpi	root	SC+R7AnodC	3 mM KNO3	4	NF-
+9w.rh.2.1	9 wpi	rhizosphere	SC+R7AnodC	none	1	NF-
+9w.rh.2.2	9 wpi	rhizosphere	SC+R7AnodC	none	2	NF-
+9w.rh.2.3	9 wpi	rhizosphere	SC+R7AnodC	none	3	NF-
+9w.rh.2.4	9 wpi	rhizosphere	SC+R7AnodC	none	4	NF-
+9w.rh.2N.1	9 wpi	rhizosphere	SC+R7AnodC	3 mM KNO3	1	NF-
+9w.rh.2N.2	9 wpi	rhizosphere	SC+R7AnodC	3 mM KNO3	2	NF-
+9w.rh.2N.3	9 wpi	rhizosphere	SC+R7AnodC	3 mM KNO3	3	NF-
+9w.rh.2N.4	9 wpi	rhizosphere	SC+R7AnodC	3 mM KNO3	4	NF-
+C.9w.2.1	9 wpi	control	SC+R7AnodC	none	1	NF-
+C.9w.2.2	9 wpi	control	SC+R7AnodC	none	2	NF-
+C.9w.2.3	9 wpi	control	SC+R7AnodC	none	3	NF-
+C.9w.2N.1	9 wpi	control	SC+R7AnodC	3 mM KNO3	1	NF-
+C.9w.2N.2	9 wpi	control	SC+R7AnodC	3 mM KNO3	2	NF-
+C.9w.2N.3	9 wpi	control	SC+R7AnodC	3 mM KNO3	3	NF-
+N.SC.R7AnodC.1	inoculum	inoculum	SC+R7AnodC	3 mM KNO3	1	NF-
+N.SC.R7AnodC.2	inoculum	inoculum	SC+R7AnodC	3 mM KNO3	2	NF-
+N.SC.R7AnodC.3	inoculum	inoculum	SC+R7AnodC	3 mM KNO3	3	NF-
+SC.R7AnodC.1	inoculum	inoculum	SC+R7AnodC	none	1	NF-
+SC.R7AnodC.2	inoculum	inoculum	SC+R7AnodC	none	2	NF-
+SC.R7AnodC.3	inoculum	inoculum	SC+R7AnodC	none	3	NF-
