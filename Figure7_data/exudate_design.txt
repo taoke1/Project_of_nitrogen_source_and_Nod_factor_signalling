@@ -1,0 +1,125 @@
+Sample_ID	Nitrate_supplement	R7A	State	Run	Tech_replicate
+Gifu_1_1_1	no	no	Starved	Gifu	1
+Gifu_1_1_2	no	no	Starved	Gifu	2
+Gifu_1_2_1	no	no	Starved	Gifu	1
+Gifu_1_2_2	no	no	Starved	Gifu	2
+Gifu_1_3_1	no	no	Starved	Gifu	1
+Gifu_1_3_2	no	no	Starved	Gifu	2
+Gifu_1_5_1	no	no	Starved	Gifu	1
+Gifu_1_5_2	no	no	Starved	Gifu	2
+Gifu_2_1_1	no	yes	Symbiotic_N	Gifu	1
+Gifu_2_1_2	no	yes	Symbiotic_N	Gifu	2
+Gifu_2_2_1	no	yes	Symbiotic_N	Gifu	1
+Gifu_2_2_2	no	yes	Symbiotic_N	Gifu	2
+Gifu_2_3_1	no	yes	Symbiotic_N	Gifu	1
+Gifu_2_3_2	no	yes	Symbiotic_N	Gifu	2
+Gifu_2_4_1	no	yes	Symbiotic_N	Gifu	1
+Gifu_2_4_2	no	yes	Symbiotic_N	Gifu	2
+Gifu_2_5_1	no	yes	Symbiotic_N	Gifu	1
+Gifu_2_5_2	no	yes	Symbiotic_N	Gifu	2
+Gifu_2_6_1	no	yes	Symbiotic_N	Gifu	1
+Gifu_2_6_2	no	yes	Symbiotic_N	Gifu	2
+Gifu_3_1_1	yes	no	Inorganic_N	Gifu	1
+Gifu_3_1_2	yes	no	Inorganic_N	Gifu	2
+Gifu_3_2_1	yes	no	Inorganic_N	Gifu	1
+Gifu_3_2_2	yes	no	Inorganic_N	Gifu	2
+Gifu_3_4_1	yes	no	Inorganic_N	Gifu	1
+Gifu_3_4_2	yes	no	Inorganic_N	Gifu	2
+Gifu_3_5_1	yes	no	Inorganic_N	Gifu	1
+Gifu_3_5_2	yes	no	Inorganic_N	Gifu	2
+Gifu_3_6_1	yes	no	Inorganic_N	Gifu	1
+Gifu_3_6_2	yes	no	Inorganic_N	Gifu	2
+Gifu_4_1_1	yes	yes	Inorganic_N + R7A	Gifu	1
+Gifu_4_1_2	yes	yes	Inorganic_N + R7A	Gifu	2
+Gifu_4_2_1	yes	yes	Inorganic_N + R7A	Gifu	1
+Gifu_4_2_2	yes	yes	Inorganic_N + R7A	Gifu	2
+Gifu_4_3_1	yes	yes	Inorganic_N + R7A	Gifu	1
+Gifu_4_3_2	yes	yes	Inorganic_N + R7A	Gifu	2
+Gifu_4_4_1	yes	yes	Inorganic_N + R7A	Gifu	1
+Gifu_4_4_2	yes	yes	Inorganic_N + R7A	Gifu	2
+Gifu_4_5_1	yes	yes	Inorganic_N + R7A	Gifu	1
+Gifu_4_5_2	yes	yes	Inorganic_N + R7A	Gifu	2
+Gifu_4_6_1	yes	yes	Inorganic_N + R7A	Gifu	1
+Gifu_4_6_2	yes	yes	Inorganic_N + R7A	Gifu	2
+nfr5 1_1	no	no	Starved	nfr5	1
+nfr5 1_2	no	no	Starved	nfr5	1
+nfr5 1_3	no	no	Starved	nfr5	1
+nfr5 1_4	no	no	Starved	nfr5	1
+nfr5 1_5	no	no	Starved	nfr5	1
+nfr5 1_6	no	no	Starved	nfr5	1
+nfr5 2_1	no	yes	Starved + R7A	nfr5	1
+nfr5 2_2	no	yes	Starved + R7A	nfr5	1
+nfr5 2_3	no	yes	Starved + R7A	nfr5	1
+nfr5 2_4	no	yes	Starved + R7A	nfr5	1
+nfr5 2_5	no	yes	Starved + R7A	nfr5	1
+nfr5 2_6	no	yes	Starved + R7A	nfr5	1
+nfr5 3_1	yes	no	Inorganic_N	nfr5	1
+nfr5 3_2	yes	no	Inorganic_N	nfr5	1
+nfr5 3_3	yes	no	Inorganic_N	nfr5	1
+nfr5 3_4	yes	no	Inorganic_N	nfr5	1
+nfr5 3_5	yes	no	Inorganic_N	nfr5	1
+nfr5 3_6	yes	no	Inorganic_N	nfr5	1
+nfr5 4_1	yes	yes	Inorganic_N + R7A	nfr5	1
+nfr5 4_2	yes	yes	Inorganic_N + R7A	nfr5	1
+nfr5 4_3	yes	yes	Inorganic_N + R7A	nfr5	1
+nfr5 4_4	yes	yes	Inorganic_N + R7A	nfr5	1
+nfr5 4_5	yes	yes	Inorganic_N + R7A	nfr5	1
+nfr5 4_6	yes	yes	Inorganic_N + R7A	nfr5	1
+C1_1_1	no	no	none	control	1
+C1_1_2	no	no	none	control	1
+C1_1_3	no	no	none	control	1
+C1_1_4	no	no	none	control	1
+C1_1_5	no	no	none	control	1
+C1_2_1	no	yes	with_R7A	control	1
+C1_2_2	no	yes	with_R7A	control	1
+C1_2_3	no	yes	with_R7A	control	1
+C1_2_4	no	yes	with_R7A	control	1
+C1_2_5	no	yes	with_R7A	control	1
+C1_3_1	yes	no	inorganic_N	control	1
+C1_3_2	yes	no	inorganic_N	control	1
+C1_3_3	yes	no	inorganic_N	control	1
+C1_3_4	yes	no	inorganic_N	control	1
+C1_3_5	yes	no	inorganic_N	control	1
+C1_4_1	yes	yes	Inorganic_N + R7A	control	1
+C1_4_2	yes	yes	Inorganic_N + R7A	control	1
+C1_4_3	yes	yes	Inorganic_N + R7A	control	1
+C1_4_4	yes	yes	Inorganic_N + R7A	control	1
+C1_4_5	yes	yes	Inorganic_N + R7A	control	1
+C2_1_1_1	no	no	none	control	1
+C2_1_1_2	no	no	none	control	2
+C2_1_2_1	no	no	none	control	1
+C2_1_2_2	no	no	none	control	2
+C2_1_3_1	no	no	none	control	1
+C2_1_3_2	no	no	none	control	2
+C2_1_4_1	no	no	none	control	1
+C2_1_4_2	no	no	none	control	2
+C2_1_5_1	no	no	none	control	1
+C2_1_5_2	no	no	none	control	2
+C2_2_1_1	no	yes	with_R7A	control	1
+C2_2_1_2	no	yes	with_R7A	control	2
+C2_2_2_1	no	yes	with_R7A	control	1
+C2_2_2_2	no	yes	with_R7A	control	2
+C2_2_3_1	no	yes	with_R7A	control	1
+C2_2_3_2	no	yes	with_R7A	control	2
+C2_2_4_1	no	yes	with_R7A	control	1
+C2_2_4_2	no	yes	with_R7A	control	2
+C2_2_5_1	no	yes	with_R7A	control	1
+C2_2_5_2	no	yes	with_R7A	control	2
+C2_3_1_1	yes	no	inorganic_N	control	1
+C2_3_1_2	yes	no	inorganic_N	control	2
+C2_3_2_1	yes	no	inorganic_N	control	1
+C2_3_2_2	yes	no	inorganic_N	control	2
+C2_3_4_1	yes	no	inorganic_N	control	1
+C2_3_4_2	yes	no	inorganic_N	control	2
+C2_3_5_1	yes	no	inorganic_N	control	1
+C2_3_5_2	yes	no	inorganic_N	control	2
+C2_4_1_1	yes	yes	Inorganic_N + R7A	control	1
+C2_4_1_2	yes	yes	Inorganic_N + R7A	control	2
+C2_4_2_1	yes	yes	Inorganic_N + R7A	control	1
+C2_4_2_2	yes	yes	Inorganic_N + R7A	control	2
+C2_4_3_1	yes	yes	Inorganic_N + R7A	control	1
+C2_4_3_2	yes	yes	Inorganic_N + R7A	control	2
+C2_4_4_1	yes	yes	Inorganic_N + R7A	control	1
+C2_4_4_2	yes	yes	Inorganic_N + R7A	control	2
+C2_4_5_1	yes	yes	Inorganic_N + R7A	control	1
+C2_4_5_2	yes	yes	Inorganic_N + R7A	control	2

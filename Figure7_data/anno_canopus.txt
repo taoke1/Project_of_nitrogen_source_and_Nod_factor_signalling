@@ -1,0 +1,1146 @@
+Feature_ID	NPC_pathway	NPC_pathway_Probability	NPC_superclass	NPC_superclass_Probability	NPC_class	NPC_class_Probability
+Feature2553	Fatty acids	0.868114173	Fatty Acids and Conjugates	0.536756516	12-oxophytodienoic acid metabolites	0.367025346
+Feature1107	Terpenoids	0.6682024	Monoterpenoids	0.702444017	Acyclic monoterpenoids	0.520431101
+Feature1123	Terpenoids	0.665636599	Monoterpenoids	0.678152323	Acyclic monoterpenoids	0.442312926
+Feature1175	Terpenoids	0.511244178	Monoterpenoids	0.396590024	Acyclic monoterpenoids	0.334911764
+Feature1187	Terpenoids	0.676629901	Monoterpenoids	0.703871489	Acyclic monoterpenoids	0.538434565
+Feature1595	Carbohydrates	0.709946096	Polyols	0.324213803	Amino cyclitols	0.203796655
+Feature2208	Carbohydrates	0.802349269	Polyols	0.562770247	Amino cyclitols	0.565596282
+Feature334	Amino acids and Peptides	0.68030411	Polyols	0.210322991	Amino cyclitols	0.21205622
+Feature921	Carbohydrates	0.622156084	Polyols	0.504855931	Amino cyclitols	0.501547575
+Feature1066	Carbohydrates	0.764499128	Polyols	0.725806177	Amino cyclitols	0.747356892
+Feature1076	Carbohydrates	0.634324491	Polyols	0.518302441	Amino cyclitols	0.537464321
+Feature1122	Amino acids and Peptides	0.56778127	Polyols	0.17539537	Amino cyclitols	0.185371682
+Feature1138	Carbohydrates	0.727527201	Polyols	0.690923572	Amino cyclitols	0.71690774
+Feature1163	Carbohydrates	0.779442728	Polyols	0.693140924	Amino cyclitols	0.74534601
+Feature1194	Amino acids and Peptides	0.481599391	Polyols	0.123126782	Amino cyclitols	0.158275455
+Feature1230	Carbohydrates	0.699399412	Polyols	0.470077485	Amino cyclitols	0.450410455
+Feature1310	Carbohydrates	0.706521213	Polyols	0.628476262	Amino cyclitols	0.660147429
+Feature1416	Carbohydrates	0.684347451	Polyols	0.562631428	Amino cyclitols	0.583076656
+Feature1421	Amino acids and Peptides	0.745518744	Polyols	0.473780304	Amino cyclitols	0.207192257
+Feature1422	Carbohydrates	0.607848823	Polyols	0.484515339	Amino cyclitols	0.489998281
+Feature1522	Amino acids and Peptides	0.66945976	Oligopeptides	0.557826579	Amino cyclitols	0.317052305
+Feature2035	Carbohydrates	0.550259531	Polyols	0.428138167	Amino cyclitols	0.522416651
+Feature88	Amino acids and Peptides	0.844306409	Small peptides	0.922543228	Aminoacids	0.856258333
+Feature92	Amino acids and Peptides	0.700017035	Small peptides	0.746467412	Aminoacids	0.723807931
+Feature105	Amino acids and Peptides	0.759043992	Small peptides	0.845779777	Aminoacids	0.645934522
+Feature247	Amino acids and Peptides	0.720375657	Small peptides	0.765199482	Aminoacids	0.663579762
+Feature279	Alkaloids	0.536328197	Fatty acyls	0.343645632	Aminoacids	0.223280326
+Feature282	Amino acids and Peptides	0.784089029	Small peptides	0.885561526	Aminoacids	0.863477349
+Feature289	Alkaloids	0.304608047	Small peptides	0.322660714	Aminoacids	0.214353517
+Feature306	Carbohydrates	0.557193577	Small peptides	0.551442087	Aminoacids	0.464916289
+Feature345	Amino acids and Peptides	0.798236191	Small peptides	0.886146188	Aminoacids	0.745130062
+Feature385	Amino acids and Peptides	0.918005645	Small peptides	0.97063911	Aminoacids	0.92642808
+Feature414	Amino acids and Peptides	0.613001049	Small peptides	0.663122654	Aminoacids	0.412568122
+Feature573	Amino acids and Peptides	0.52102536	Small peptides	0.605798125	Aminoacids	0.657718241
+Feature712	Amino acids and Peptides	0.908628643	Small peptides	0.9630723	Aminoacids	0.858628988
+Feature714	Amino acids and Peptides	0.894389391	Small peptides	0.952042699	Aminoacids	0.810663819
+Feature775	Amino acids and Peptides	0.740274906	Small peptides	0.851623118	Aminoacids	0.843698978
+Feature776	Amino acids and Peptides	0.681554437	Small peptides	0.778731465	Aminoacids	0.663143873
+Feature834	Amino acids and Peptides	0.691377103	Small peptides	0.826811612	Aminoacids	0.689808965
+Feature886	Amino acids and Peptides	0.748603225	Small peptides	0.818229318	Aminoacids	0.722768545
+Feature1055	Amino acids and Peptides	0.708375871	Small peptides	0.794264615	Aminoacids	0.740105271
+Feature1077	Amino acids and Peptides	0.416826844	Small peptides	0.454275131	Aminoacids	0.5208143
+Feature1149	Amino acids and Peptides	0.782849491	Small peptides	0.785361886	Aminoacids	0.723251998
+Feature1388	Amino acids and Peptides	0.527286887	Small peptides	0.526843727	Aminoacids	0.532260299
+Feature1923	Alkaloids	0.590198398	Small peptides	0.448905438	Aminoacids	0.430396259
+Feature2073	Alkaloids	0.521399677	Fatty acyls	0.171923518	Aminoacids	0.335532725
+Feature2360	Amino acids and Peptides	0.556551099	Small peptides	0.671651781	Aminoacids	0.638946116
+Feature2560	Amino acids and Peptides	0.711747587	Small peptides	0.826556742	Aminoacids	0.716966331
+Feature2563	Amino acids and Peptides	0.700178266	Small peptides	0.856372178	Aminoacids	0.582518995
+Feature2580	Amino acids and Peptides	0.541387856	Small peptides	0.330428004	Aminoacids	0.525483489
+Feature2659	Amino acids and Peptides	0.375022411	Small peptides	0.51748842	Aminoacids	0.181996241
+Feature141	Amino acids and Peptides	0.899182856	Small peptides	0.929722905	Aminoacids	0.77573514
+Feature173	Amino acids and Peptides	0.63288337	Small peptides	0.755136251	Aminoacids	0.694564223
+Feature175	Amino acids and Peptides	0.656310141	Small peptides	0.802586317	Aminoacids	0.712598503
+Feature200	Amino acids and Peptides	0.735404968	Small peptides	0.811140776	Aminoacids	0.780330718
+Feature228	Amino acids and Peptides	0.861561656	Small peptides	0.912151217	Aminoacids	0.822259724
+Feature229	Amino acids and Peptides	0.836907804	Small peptides	0.89217031	Aminoacids	0.826693177
+Feature235	Amino acids and Peptides	0.495056987	Small peptides	0.587510228	Aminoacids	0.580184579
+Feature270	Amino acids and Peptides	0.880627811	Small peptides	0.941640794	Aminoacids	0.807269335
+Feature278	Amino acids and Peptides	0.681206584	Small peptides	0.71630317	Aminoacids	0.71126318
+Feature281	Alkaloids	0.30986765	Pseudoalkaloids	0.141545802	Aminoacids	0.165514469
+Feature303	Amino acids and Peptides	0.8248263	Small peptides	0.911814332	Aminoacids	0.864181757
+Feature309	Amino acids and Peptides	0.755467057	Small peptides	0.839311361	Aminoacids	0.690117538
+Feature370	Amino acids and Peptides	0.76835829	Small peptides	0.779107332	Aminoacids	0.748595715
+Feature383	Amino acids and Peptides	0.641784072	Small peptides	0.786905766	Aminoacids	0.696059883
+Feature386	Amino acids and Peptides	0.207865894	Small peptides	0.533827543	Aminoacids	0.528677225
+Feature407	Amino acids and Peptides	0.508707106	Small peptides	0.572301209	Aminoacids	0.422560722
+Feature422	Amino acids and Peptides	0.401350141	Small peptides	0.589042485	Aminoacids	0.562947512
+Feature432	Amino acids and Peptides	0.615809739	Small peptides	0.550422251	Aminoacids	0.147653401
+Feature442	Amino acids and Peptides	0.864329636	Small peptides	0.907459497	Aminoacids	0.721535981
+Feature477	Amino acids and Peptides	0.756997883	Small peptides	0.8463763	Aminoacids	0.729112804
+Feature503	Amino acids and Peptides	0.552066267	Small peptides	0.597080112	Aminoacids	0.639276564
+Feature509	Amino acids and Peptides	0.811634779	Small peptides	0.914904535	Aminoacids	0.770830274
+Feature619	Amino acids and Peptides	0.869043529	Small peptides	0.912064254	Aminoacids	0.637269914
+Feature628	Amino acids and Peptides	0.580311716	Small peptides	0.605955839	Aminoacids	0.629546404
+Feature629	Alkaloids	0.543063104	Small peptides	0.323922187	Aminoacids	0.40422231
+Feature640	Amino acids and Peptides	0.55257535	Small peptides	0.658808172	Aminoacids	0.56095916
+Feature680	Amino acids and Peptides	0.820643961	Small peptides	0.902641654	Aminoacids	0.89370966
+Feature683	Amino acids and Peptides	0.694719613	Small peptides	0.746037483	Aminoacids	0.620788872
+Feature749	Alkaloids	0.606647313	Small peptides	0.429098159	Aminoacids	0.384100735
+Feature787	Amino acids and Peptides	0.638581038	Small peptides	0.742577016	Aminoacids	0.731581748
+Feature850	Alkaloids	0.540061593	Small peptides	0.450205296	Aminoacids	0.40271318
+Feature877	Amino acids and Peptides	0.554935873	Small peptides	0.638941407	Aminoacids	0.307074696
+Feature894	Amino acids and Peptides	0.399224371	Small peptides	0.502819598	Aminoacids	0.387631148
+Feature899	Amino acids and Peptides	0.861685574	Small peptides	0.945808589	Aminoacids	0.898596823
+Feature925	Amino acids and Peptides	0.531593025	Small peptides	0.587916613	Aminoacids	0.269982249
+Feature972	Amino acids and Peptides	0.649771631	Small peptides	0.759466767	Aminoacids	0.686070681
+Feature993	Amino acids and Peptides	0.8144871	Small peptides	0.911500752	Aminoacids	0.857610643
+Feature1100	Amino acids and Peptides	0.65082711	Small peptides	0.687571526	Aminoacids	0.566609919
+Feature1164	Amino acids and Peptides	0.898153961	Small peptides	0.950159013	Aminoacids	0.861983061
+Feature1243	Amino acids and Peptides	0.613202631	Small peptides	0.743673563	Aminoacids	0.7298491
+Feature1267	Amino acids and Peptides	0.739503622	Small peptides	0.876463354	Aminoacids	0.864160299
+Feature1287	Amino acids and Peptides	0.881624222	Small peptides	0.944487333	Aminoacids	0.811614752
+Feature1364	Amino acids and Peptides	0.66058147	Small peptides	0.791137218	Aminoacids	0.763659775
+Feature1377	Amino acids and Peptides	0.710627258	Small peptides	0.826477826	Aminoacids	0.648734391
+Feature1378	Amino acids and Peptides	0.707185864	Small peptides	0.826683939	Aminoacids	0.703310192
+Feature1498	Amino acids and Peptides	0.758803546	Small peptides	0.815042317	Aminoacids	0.816796839
+Feature1608	Amino acids and Peptides	0.932509243	Small peptides	0.97303021	Aminoacids	0.919279456
+Feature1915	Amino acids and Peptides	0.820471883	Small peptides	0.925618052	Aminoacids	0.797616124
+Feature2051	Amino acids and Peptides	0.552545786	Small peptides	0.636083841	Aminoacids	0.625983357
+Feature2127	Amino acids and Peptides	0.618117988	Small peptides	0.708100438	Aminoacids	0.613988698
+Feature2131	Amino acids and Peptides	0.678104281	Small peptides	0.75661844	Aminoacids	0.7522614
+Feature2657	Amino acids and Peptides	0.646872699	Small peptides	0.817602396	Aminoacids	0.733439863
+Feature2791	Amino acids and Peptides	0.756151497	Small peptides	0.854420841	Aminoacids	0.640541494
+Feature3312	Amino acids and Peptides	0.580978036	Small peptides	0.747901738	Aminoacids	0.565341234
+Feature372	Amino acids and Peptides	0.885380566	Small peptides	0.940480769	Aminoacids	0.844054103
+Feature570	Amino acids and Peptides	0.704693973	Small peptides	0.810214996	Aminoacids	0.719834149
+Feature1704	Amino acids and Peptides	0.732256114	Small peptides	0.638836682	Aminoacids	0.200117946
+Feature246	Amino acids and Peptides	0.532754183	Small peptides	0.507559419	Aminoacids	0.584518373
+Feature275	Amino acids and Peptides	0.711559415	Small peptides	0.775963187	Aminoacids	0.697362602
+Feature392	Fatty acids	0.301758528	Fatty acyls	0.238108113	Aminoacids	0.09860225
+Feature403	Amino acids and Peptides	0.945707619	Small peptides	0.984670162	Aminoacids	0.960729837
+Feature494	Amino acids and Peptides	0.785348713	Small peptides	0.777979195	Aminoacids	0.517227769
+Feature511	Amino acids and Peptides	0.884953678	Small peptides	0.942017019	Aminoacids	0.89663285
+Feature533	Amino acids and Peptides	0.837793708	Small peptides	0.920203865	Aminoacids	0.86709249
+Feature558	Amino acids and Peptides	0.291580349	Small peptides	0.500833929	Aminoacids	0.517828405
+Feature592	Amino acids and Peptides	0.763744831	Small peptides	0.84903717	Aminoacids	0.826990604
+Feature602	Alkaloids	0.505230188	Small peptides	0.217618227	Aminoacids	0.108875416
+Feature656	Alkaloids	0.507241726	Small peptides	0.337360442	Aminoacids	0.305568427
+Feature751	Amino acids and Peptides	0.620410085	Small peptides	0.76309979	Aminoacids	0.571822703
+Feature1049	Amino acids and Peptides	0.621171057	Small peptides	0.769574165	Aminoacids	0.522497356
+Feature1074	Amino acids and Peptides	0.560331464	Small peptides	0.712252319	Aminoacids	0.57055223
+Feature1394	Amino acids and Peptides	0.570500255	Small peptides	0.676885843	Aminoacids	0.629366755
+Feature2048	Amino acids and Peptides	0.845312536	Small peptides	0.929246187	Aminoacids	0.837325573
+Feature653	Carbohydrates	0.683003128	Aminosugars and aminoglycosides	0.875612438	Aminoglycosides	0.903019607
+Feature2150	Carbohydrates	0.757180631	Aminosugars and aminoglycosides	0.66681844	Aminoglycosides	0.67379719
+Feature1920	Carbohydrates	0.526088297	Aminosugars and aminoglycosides	0.500786483	Aminoglycosides	0.701039076
+Feature2033	Carbohydrates	0.622765005	Guanidine alkaloids	0.320390105	Aminoglycosides	0.398522466
+Feature147	Carbohydrates	0.903437257	Aminosugars and aminoglycosides	0.847067118	Aminoglycosides	0.681445956
+Feature174	Carbohydrates	0.663107812	Nucleosides	0.350153327	Aminoglycosides	0.239803955
+Feature287	Carbohydrates	0.678566337	Aminosugars and aminoglycosides	0.738001287	Aminoglycosides	0.817859173
+Feature292	Carbohydrates	0.759571552	Aminosugars and aminoglycosides	0.717727482	Aminoglycosides	0.691224635
+Feature293	Carbohydrates	0.795891106	Aminosugars and aminoglycosides	0.71940589	Aminoglycosides	0.623277545
+Feature966	Carbohydrates	0.534809649	Aminosugars and aminoglycosides	0.251394004	Aminoglycosides	0.438818634
+Feature1040	Alkaloids	0.430934548	Small peptides	0.075976536	Aminoglycosides	0.121382885
+Feature1144	Carbohydrates	0.695769548	Aminosugars and aminoglycosides	0.37734732	Aminoglycosides	0.62897265
+Feature1266	Carbohydrates	0.759605408	Aminosugars and aminoglycosides	0.685428321	Aminoglycosides	0.770465314
+Feature3508	Fatty acids	0.535951436	Histidine alkaloids	0.130841658	Aminoglycosides	0.292189062
+Feature217	Carbohydrates	0.822703958	Aminosugars and aminoglycosides	0.888829052	Aminosugars	0.924926519
+Feature302	Amino acids and Peptides	0.612417758	Aminosugars and aminoglycosides	0.544915199	Aminosugars	0.561046958
+Feature396	Carbohydrates	0.859526813	Aminosugars and aminoglycosides	0.86695832	Aminosugars	0.855961561
+Feature502	Carbohydrates	0.918029428	Aminosugars and aminoglycosides	0.782161236	Aminosugars	0.621255934
+Feature2116	Terpenoids	0.564481616	Steroids	0.263193637	Androstane steroids	0.191755712
+Feature21	Polyketides	0.870942414	Polycyclic aromatic polyketides	0.821356118	Anthraquinones and anthrones	0.828650415
+Feature1918	Polyketides	0.756014645	Polycyclic aromatic polyketides	0.808694959	Anthraquinones and anthrones	0.814787745
+Feature1541	Alkaloids	0.426507741	Flavonoids	0.449597597	Aporphine alkaloids	0.317360014
+Feature1514	Fatty acids	0.828030586	Fatty acyl glycosides	0.533858895	Ascarosides	0.593222141
+Feature1640	Fatty acids	0.58951664	Fatty acyl glycosides	0.377152801	Ascarosides	0.448624074
+Feature1663	Fatty acids	0.699598432	Fatty acyl glycosides	0.66931802	Ascarosides	0.693368733
+Feature1800	Fatty acids	0.788298905	Fatty acyl glycosides	0.731361747	Ascarosides	0.730472028
+Feature1951	Fatty acids	0.907412052	Fatty acyl glycosides	0.939182699	Ascarosides	0.932488084
+Feature2007	Fatty acids	0.773364246	Fatty acyl glycosides	0.782652795	Ascarosides	0.796287477
+Feature2321	Fatty acids	0.671288848	Fatty acyl glycosides	0.746423423	Ascarosides	0.812482476
+Feature1616	Terpenoids	0.430423051	Sesquiterpenoids	0.139775872	Azaphilones	0.12420956
+Feature56	Alkaloids	0.735605359	Pseudoalkaloids	0.739855111	Azo and Azoxy alkaloids	0.620531082
+Feature60	Alkaloids	0.678094447	Pseudoalkaloids	0.596574068	Azo and Azoxy alkaloids	0.506155193
+Feature64	Alkaloids	0.635210156	Pseudoalkaloids	0.547727525	Azo and Azoxy alkaloids	0.509580314
+Feature72	Alkaloids	0.712686419	Pseudoalkaloids	0.675319374	Azo and Azoxy alkaloids	0.607428789
+Feature1987	Polyketides	0.6869874	Xanthones	0.458584636	Benzophenones	0.454707921
+Feature3018	Fatty acids	0.578424811	Glycerophospholipids	0.254321635	Bicyclic guanidine alkaloids	0.113907702
+Feature1907	Alkaloids	0.721464157	Guanidine alkaloids	0.235483229	Bicyclic guanidine alkaloids	0.187940791
+Feature2230	Alkaloids	0.623426259	Guanidine alkaloids	0.21041818	Bicyclic guanidine alkaloids	0.294279754
+Feature2473	Terpenoids	0.526922405	Sesquiterpenoids	0.542663813	Bisabolane sesquiterpenoids	0.07157553
+Feature3515	Terpenoids	0.688029289	Sesquiterpenoids	0.761547983	Bisabolane sesquiterpenoids	0.139019474
+Feature2797	Terpenoids	0.58862108	Sesquiterpenoids	0.667684674	Bisabolane sesquiterpenoids	0.268823594
+Feature2348	Fatty acids	0.75443542	Fatty Acids and Conjugates	0.783748686	Branched fatty acids	0.550091624
+Feature2504	Fatty acids	0.699490964	Fatty Acids and Conjugates	0.70385462	Branched fatty acids	0.711393476
+Feature2934	Fatty acids	0.784217596	Fatty Acids and Conjugates	0.885327458	Branched fatty acids	0.704873741
+Feature3027	Fatty acids	0.780096352	Fatty Acids and Conjugates	0.84902662	Branched fatty acids	0.642961204
+Feature3080	Fatty acids	0.682572484	Fatty Acids and Conjugates	0.796883404	Branched fatty acids	0.573594093
+Feature3092	Fatty acids	0.655398786	Fatty Acids and Conjugates	0.67765969	Branched fatty acids	0.55909121
+Feature1652	Polyketides	0.34623307	Aromatic polyketides	0.153230891	Carbocyclic fatty acids	0.392630875
+Feature1662	Shikimates and Phenylpropanoids	0.508498728	Phenolic acids (C6-C1)	0.284802973	Carbocyclic fatty acids	0.415356487
+Feature1798	Fatty acids	0.346121967	Fatty Acids and Conjugates	0.740940332	Carbocyclic fatty acids	0.918474317
+Feature1878	Fatty acids	0.703092635	Fatty Acids and Conjugates	0.895445526	Carbocyclic fatty acids	0.994655967
+Feature1939	Fatty acids	0.658503354	Fatty Acids and Conjugates	0.873559535	Carbocyclic fatty acids	0.992097497
+Feature1962	Polyketides	0.216072887	Fatty Acids and Conjugates	0.38709113	Carbocyclic fatty acids	0.678354084
+Feature2138	Fatty acids	0.610026121	Fatty Acids and Conjugates	0.720531166	Carbocyclic fatty acids	0.978486061
+Feature2164	Fatty acids	0.720293939	Fatty Acids and Conjugates	0.832116842	Carbocyclic fatty acids	0.927874207
+Feature2169	Fatty acids	0.6750139	Fatty Acids and Conjugates	0.888977051	Carbocyclic fatty acids	0.995644808
+Feature2297	Fatty acids	0.737585485	Fatty Acids and Conjugates	0.850204051	Carbocyclic fatty acids	0.899715662
+Feature2374	Fatty acids	0.565665066	Fatty Acids and Conjugates	0.777754128	Carbocyclic fatty acids	0.99034673
+Feature2492	Fatty acids	0.553420484	Fatty Acids and Conjugates	0.804985404	Carbocyclic fatty acids	0.990987837
+Feature2649	Fatty acids	0.736963749	Fatty Acids and Conjugates	0.844996035	Carbocyclic fatty acids	0.855258942
+Feature2928	Fatty acids	0.638337612	Fatty Acids and Conjugates	0.869273126	Carbocyclic fatty acids	0.989563644
+Feature3020	Fatty acids	0.593998194	Fatty Acids and Conjugates	0.777648389	Carbocyclic fatty acids	0.99272573
+Feature3091	Fatty acids	0.734018862	Fatty Acids and Conjugates	0.836150646	Carbocyclic fatty acids	0.990960896
+Feature3148	Fatty acids	0.72147876	Fatty Acids and Conjugates	0.883053482	Carbocyclic fatty acids	0.842616677
+Feature1823	Fatty acids	0.516225338	Fatty Acids and Conjugates	0.68732667	Carbocyclic fatty acids	0.601883233
+Feature2030	Fatty acids	0.689912856	Fatty Acids and Conjugates	0.748391747	Carbocyclic fatty acids	0.761393845
+Feature2309	Fatty acids	0.541761935	Fatty Acids and Conjugates	0.455990732	Carbocyclic fatty acids	0.896560669
+Feature2409	Fatty acids	0.730847538	Fatty Acids and Conjugates	0.915611386	Carbocyclic fatty acids	0.990851939
+Feature2537	Fatty acids	0.772301674	Fatty Acids and Conjugates	0.860089064	Carbocyclic fatty acids	0.980112791
+Feature3207	Fatty acids	0.716985703	Fatty Acids and Conjugates	0.786250949	Carbocyclic fatty acids	0.968719602
+Feature3322	Fatty acids	0.562650025	Fatty Acids and Conjugates	0.626063228	Carbocyclic fatty acids	0.915736735
+Feature2163	Terpenoids	0.591780186	Steroids	0.438320011	Cardenolides	0.392949224
+Feature713	Shikimates and Phenylpropanoids	0.420316219	Fatty Acids and Conjugates	0.163463518	Catechols with side chains	0.201189741
+Feature1793	Shikimates and Phenylpropanoids	0.239371017	Aromatic polyketides	0.188144729	Catechols with side chains	0.389521539
+Feature2107	Polyketides	0.610586822	Aromatic polyketides	0.59823668	Catechols with side chains	0.582423985
+Feature2153	Polyketides	0.626374304	Aromatic polyketides	0.661266685	Catechols with side chains	0.525382042
+Feature2271	Polyketides	0.623925865	Aromatic polyketides	0.71047008	Catechols with side chains	0.753231645
+Feature2969	Polyketides	0.718816698	Aromatic polyketides	0.845961571	Catechols with side chains	0.898609459
+Feature1863	Polyketides	0.571949601	Aromatic polyketides	0.625499904	Catechols with side chains	0.607230902
+Feature3563	Polyketides	0.345466405	Aromatic polyketides	0.516992927	Catechols with side chains	0.420449197
+Feature522	Alkaloids	0.554282784	Pseudoalkaloids	0.420931429	Cephalosporins	0.243246824
+Feature623	Alkaloids	0.620538414	Pseudoalkaloids	0.579220474	Cephalosporins	0.277470291
+Feature76	Amino acids and Peptides	0.713711858	Small peptides	0.612320364	Cephalosporins	0.47837916
+Feature1553	Amino acids and Peptides	0.86799252	ÃŽÂ²-lactams	0.893308222	Cephalosporins	0.874611974
+Feature1500	Amino acids and Peptides	0.117812872	ÃŽÂ²-lactams	0.671231925	Cephalosporins	0.735355675
+Feature1665	Alkaloids	0.56575644	Pseudoalkaloids	0.509662569	Cephalosporins	0.410616428
+Feature651	Amino acids and Peptides	0.708773673	ÃŽÂ²-lactams	0.633124828	Cephalosporins	0.619267046
+Feature3174	Fatty acids	0.604386449	Sphingolipids	0.577785432	Ceramides	0.303749442
+Feature2165	Terpenoids	0.728540957	Triterpenoids	0.574450195	Cholestane steroids	0.401495814
+Feature1412	Terpenoids	0.525575399	Monoterpenoids	0.407317907	Cinnamic acids and derivatives	0.38603878
+Feature2549	Shikimates and Phenylpropanoids	0.699693799	Phenylpropanoids (C6-C3)	0.653673291	Cinnamic acids and derivatives	0.640496075
+Feature644	Shikimates and Phenylpropanoids	0.788989127	Phenylpropanoids (C6-C3)	0.795693576	Cinnamic acids and derivatives	0.761363566
+Feature1050	Shikimates and Phenylpropanoids	0.820409298	Phenylpropanoids (C6-C3)	0.697831452	Cinnamic acids and derivatives	0.659798861
+Feature1271	Shikimates and Phenylpropanoids	0.810025513	Phenylpropanoids (C6-C3)	0.620734334	Cinnamic acids and derivatives	0.582649946
+Feature1272	Shikimates and Phenylpropanoids	0.820875108	Phenylpropanoids (C6-C3)	0.775134325	Cinnamic acids and derivatives	0.74009949
+Feature1273	Shikimates and Phenylpropanoids	0.810528636	Phenylpropanoids (C6-C3)	0.781481326	Cinnamic acids and derivatives	0.744070768
+Feature1586	Shikimates and Phenylpropanoids	0.587034404	Phenolic acids (C6-C1)	0.403290004	Cinnamic acids and derivatives	0.420498729
+Feature2070	Shikimates and Phenylpropanoids	0.750799716	Phenylpropanoids (C6-C3)	0.54966253	Cinnamic acids and derivatives	0.557175696
+Feature2204	Shikimates and Phenylpropanoids	0.665586233	Phenylpropanoids (C6-C3)	0.580463409	Cinnamic acids and derivatives	0.581177175
+Feature2507	Shikimates and Phenylpropanoids	0.676878035	Phenylpropanoids (C6-C3)	0.580260336	Cinnamic acids and derivatives	0.537457824
+Feature1556	Shikimates and Phenylpropanoids	0.505657673	Phenolic acids (C6-C1)	0.195014462	Cinnamic acids and derivatives	0.340158343
+Feature1561	Terpenoids	0.468722582	Monoterpenoids	0.195260853	Cinnamic acids and derivatives	0.132587686
+Feature769	Shikimates and Phenylpropanoids	0.761655152	Phenylpropanoids (C6-C3)	0.611388743	Cinnamic acids and derivatives	0.69061774
+Feature1020	Shikimates and Phenylpropanoids	0.695694029	Phenylpropanoids (C6-C3)	0.67844063	Cinnamic acids and derivatives	0.721553683
+Feature1681	Terpenoids	0.603292942	Diterpenoids	0.494549155	Colensane and Clerodane diterpenoids	0.295404553
+Feature1293	Alkaloids	0.849763095	Tryptophan alkaloids	0.810576856	Corynanthe type	0.187030151
+Feature1346	Alkaloids	0.888302028	Tryptophan alkaloids	0.835190058	Corynanthe type	0.867888212
+Feature1355	Amino acids and Peptides	0.707570374	Oligopeptides	0.720749438	Cyclic peptides	0.844201803
+Feature1669	Amino acids and Peptides	0.671351969	Small peptides	0.544735491	Cyclic peptides	0.401801825
+Feature2117	Amino acids and Peptides	0.586535096	Small peptides	0.346628278	Cyclic peptides	0.168581724
+Feature2373	Amino acids and Peptides	0.865151644	Small peptides	0.57757628	Cyclic peptides	0.570455134
+Feature2907	Amino acids and Peptides	0.548909426	Fatty amides	0.424069852	Cyclic peptides	0.224607155
+Feature1624	Amino acids and Peptides	0.86356914	Small peptides	0.624846518	Cyclic peptides	0.347777963
+Feature1845	Amino acids and Peptides	0.853508949	Oligopeptides	0.618837118	Cyclic peptides	0.572877049
+Feature2193	Amino acids and Peptides	0.635736048	Oligopeptides	0.218355671	Cyclic peptides	0.145639718
+Feature2310	Amino acids and Peptides	0.695675135	Oligopeptides	0.598696053	Cyclic peptides	0.64898169
+Feature2500	Amino acids and Peptides	0.761749387	Oligopeptides	0.613993227	Cyclic peptides	0.731588066
+Feature3465	Amino acids and Peptides	0.894278526	Oligopeptides	0.871136665	Cyclic peptides	0.702299595
+Feature1022	Amino acids and Peptides	0.714617431	Oligopeptides	0.664555788	Cyclic peptides	0.695719361
+Feature1023	Amino acids and Peptides	0.846696973	Oligopeptides	0.746969521	Cyclic peptides	0.684408605
+Feature1103	Amino acids and Peptides	0.657428861	Small peptides	0.126821429	Cyclic peptides	0.167804345
+Feature1154	Amino acids and Peptides	0.785349071	Oligopeptides	0.693370581	Cyclic peptides	0.710183382
+Feature1155	Amino acids and Peptides	0.646588922	Oligopeptides	0.531582594	Cyclic peptides	0.328388482
+Feature1166	Amino acids and Peptides	0.763063014	Oligopeptides	0.781429946	Cyclic peptides	0.803045928
+Feature1167	Amino acids and Peptides	0.909995496	Oligopeptides	0.949036777	Cyclic peptides	0.960262597
+Feature1192	Amino acids and Peptides	0.872076988	Oligopeptides	0.797702253	Cyclic peptides	0.800573051
+Feature1246	Amino acids and Peptides	0.877751052	Oligopeptides	0.880142033	Cyclic peptides	0.831743062
+Feature1251	Amino acids and Peptides	0.758780241	Oligopeptides	0.537613392	Cyclic peptides	0.550035536
+Feature1252	Amino acids and Peptides	0.540531397	Oligopeptides	0.222512662	Cyclic peptides	0.202806517
+Feature1256	Amino acids and Peptides	0.676817417	Oligopeptides	0.542711198	Cyclic peptides	0.615637779
+Feature1262	Fatty acids	0.542845607	Linear polyketides	0.321207583	Cyclic peptides	0.307525337
+Feature1278	Amino acids and Peptides	0.750946879	Oligopeptides	0.798456907	Cyclic peptides	0.883291602
+Feature1292	Amino acids and Peptides	0.747991681	Oligopeptides	0.576593041	Cyclic peptides	0.56756717
+Feature1295	Alkaloids	0.628907204	Tryptophan alkaloids	0.279122531	Cyclic peptides	0.122259565
+Feature1330	Amino acids and Peptides	0.785880268	Oligopeptides	0.631757736	Cyclic peptides	0.659438431
+Feature1343	Amino acids and Peptides	0.870970368	Oligopeptides	0.882377088	Cyclic peptides	0.863801241
+Feature1345	Amino acids and Peptides	0.816398323	Oligopeptides	0.57245791	Cyclic peptides	0.566380799
+Feature1360	Amino acids and Peptides	0.910135329	Oligopeptides	0.947857678	Cyclic peptides	0.949624181
+Feature1382	Amino acids and Peptides	0.856461883	Oligopeptides	0.830057681	Cyclic peptides	0.868219733
+Feature1384	Amino acids and Peptides	0.817347467	Oligopeptides	0.612975776	Cyclic peptides	0.580801249
+Feature1398	Amino acids and Peptides	0.880944371	Oligopeptides	0.883997917	Cyclic peptides	0.887518942
+Feature1457	Amino acids and Peptides	0.87286973	Oligopeptides	0.887964368	Cyclic peptides	0.890555501
+Feature1464	Amino acids and Peptides	0.8189376	Oligopeptides	0.715711832	Cyclic peptides	0.730510652
+Feature1472	Amino acids and Peptides	0.704660118	Small peptides	0.402374119	Cyclic peptides	0.258143574
+Feature1475	Amino acids and Peptides	0.77315557	Oligopeptides	0.838240504	Cyclic peptides	0.886257768
+Feature1495	Amino acids and Peptides	0.895776272	Oligopeptides	0.695639968	Cyclic peptides	0.65615344
+Feature1497	Amino acids and Peptides	0.86515975	Oligopeptides	0.858041346	Cyclic peptides	0.840648353
+Feature1504	Amino acids and Peptides	0.500123739	Oligopeptides	0.374126375	Cyclic peptides	0.300343245
+Feature1530	Amino acids and Peptides	0.879947007	Oligopeptides	0.863603115	Cyclic peptides	0.922209978
+Feature1548	Amino acids and Peptides	0.61883527	Small peptides	0.523544073	Cyclic peptides	0.529219449
+Feature1600	Amino acids and Peptides	0.616655886	Oligopeptides	0.545192361	Cyclic peptides	0.693900466
+Feature1610	Amino acids and Peptides	0.746126592	Oligopeptides	0.755659163	Cyclic peptides	0.777280331
+Feature1655	Amino acids and Peptides	0.776396811	Oligopeptides	0.702172637	Cyclic peptides	0.742397726
+Feature1690	Amino acids and Peptides	0.655685484	Oligopeptides	0.569959521	Cyclic peptides	0.70838362
+Feature1766	Amino acids and Peptides	0.721661389	Oligopeptides	0.686281145	Cyclic peptides	0.796541989
+Feature1859	Amino acids and Peptides	0.747533441	Small peptides	0.594889581	Cyclic peptides	0.548675895
+Feature2009	Amino acids and Peptides	0.871954262	Oligopeptides	0.891197979	Cyclic peptides	0.892454922
+Feature2025	Amino acids and Peptides	0.779413402	Oligopeptides	0.778294981	Cyclic peptides	0.843173623
+Feature2100	Amino acids and Peptides	0.87481463	Oligopeptides	0.872357607	Cyclic peptides	0.870315909
+Feature2190	Amino acids and Peptides	0.91671443	Oligopeptides	0.970321715	Cyclic peptides	0.959462881
+Feature2392	Amino acids and Peptides	0.690516353	Oligopeptides	0.692878246	Cyclic peptides	0.798182368
+Feature2412	Polyketides	0.677792907	Macrolides	0.489562988	Cyclic peptides	0.550266862
+Feature2422	Amino acids and Peptides	0.866850019	Oligopeptides	0.84064734	Cyclic peptides	0.867492497
+Feature2501	Amino acids and Peptides	0.85030663	Oligopeptides	0.857215703	Cyclic peptides	0.855837643
+Feature2644	Amino acids and Peptides	0.882894635	Oligopeptides	0.896332383	Cyclic peptides	0.924860716
+Feature2655	Amino acids and Peptides	0.836704969	Oligopeptides	0.906361163	Cyclic peptides	0.926149666
+Feature2678	Amino acids and Peptides	0.807580173	Oligopeptides	0.70319593	Cyclic peptides	0.584002972
+Feature2721	Amino acids and Peptides	0.649438918	Oligopeptides	0.656047642	Cyclic peptides	0.750886559
+Feature2729	Amino acids and Peptides	0.7469998	Oligopeptides	0.597252011	Cyclic peptides	0.502308786
+Feature2733	Amino acids and Peptides	0.865644693	Oligopeptides	0.872508943	Cyclic peptides	0.827222526
+Feature2817	Amino acids and Peptides	0.701141357	Oligopeptides	0.624133825	Cyclic peptides	0.619093895
+Feature2847	Amino acids and Peptides	0.880705297	Oligopeptides	0.861538112	Cyclic peptides	0.886551023
+Feature3066	Amino acids and Peptides	0.858500481	Oligopeptides	0.697468042	Cyclic peptides	0.420610726
+Feature3094	Amino acids and Peptides	0.717279375	Oligopeptides	0.686972678	Cyclic peptides	0.74031204
+Feature3111	Amino acids and Peptides	0.689712524	Oligopeptides	0.389800698	Cyclic peptides	0.296579182
+Feature3478	Amino acids and Peptides	0.88424325	Oligopeptides	0.734626114	Cyclic peptides	0.770619214
+Feature3479	Amino acids and Peptides	0.748384178	Oligopeptides	0.695598483	Cyclic peptides	0.804787517
+Feature3526	Amino acids and Peptides	0.734057009	Oligopeptides	0.445007741	Cyclic peptides	0.20137395
+Feature220	Carbohydrates	0.691173017	Saccharides	0.438638747	Cyclitols	0.324519396
+Feature2997	Terpenoids	0.620931387	Sesquiterpenoids	0.611433327	Cyclonerane sesquiterpenoids	0.313773364
+Feature3500	Fatty acids	0.538444877	Fatty Acids and Conjugates	0.509784997	Cyclonerane sesquiterpenoids	0.298022449
+Feature1116	Polyketides	0.624857545	Aromatic polyketides	0.630378187	Depsides	0.830161512
+Feature646	Polyketides	0.648274839	Aromatic polyketides	0.839550912	Depsidones	0.817281306
+Feature1645	Fatty acids	0.582715392	Fatty Acids and Conjugates	0.726540625	Dicarboxylic acids	0.499649167
+Feature1848	Fatty acids	0.605168641	Fatty Acids and Conjugates	0.662674904	Dicarboxylic acids	0.66659981
+Feature2273	Fatty acids	0.705936372	Fatty Acids and Conjugates	0.840882421	Dicarboxylic acids	0.689513981
+Feature3224	Fatty acids	0.860839486	Fatty Acids and Conjugates	0.789496601	Dicarboxylic acids	0.707533121
+Feature695	Fatty acids	0.572336674	Fatty Acids and Conjugates	0.664867818	Dicarboxylic acids	0.531914711
+Feature837	Fatty acids	0.804324031	Fatty Acids and Conjugates	0.858682454	Dicarboxylic acids	0.804276764
+Feature1626	Fatty acids	0.413382202	Fatty Acids and Conjugates	0.482941389	Dicarboxylic acids	0.305300474
+Feature1812	Fatty acids	0.587086141	Fatty Acids and Conjugates	0.530414939	Dicarboxylic acids	0.505507946
+Feature1862	Fatty acids	0.687783837	Fatty Acids and Conjugates	0.819298148	Dicarboxylic acids	0.713579178
+Feature2933	Fatty acids	0.85329473	Fatty Acids and Conjugates	0.774208784	Dicarboxylic acids	0.656602502
+Feature3284	Fatty acids	0.84589237	Fatty Acids and Conjugates	0.894206822	Dicarboxylic acids	0.767228603
+Feature3368	Fatty acids	0.840927124	Fatty Acids and Conjugates	0.868967593	Dicarboxylic acids	0.613348842
+Feature917	Fatty acids	0.804353178	Fatty Acids and Conjugates	0.874200165	Dicarboxylic acids	0.725966513
+Feature1592	Fatty acids	0.59496963	Fatty Acids and Conjugates	0.670384228	Dicarboxylic acids	0.651201546
+Feature1735	Fatty acids	0.693348885	Fatty Acids and Conjugates	0.778930306	Dicarboxylic acids	0.752230465
+Feature1404	Shikimates and Phenylpropanoids	0.681940913	Isoflavonoids	0.353208303	Dihydroflavonols	0.226433322
+Feature208	Alkaloids	0.506847501	Small peptides	0.308471739	Dipeptides	0.266534477
+Feature240	Amino acids and Peptides	0.902178705	Small peptides	0.95153749	Dipeptides	0.984533012
+Feature333	Amino acids and Peptides	0.950967073	Small peptides	0.981127739	Dipeptides	0.999969602
+Feature682	Amino acids and Peptides	0.693760157	Small peptides	0.650908053	Dipeptides	0.300616354
+Feature710	Amino acids and Peptides	0.792892992	Small peptides	0.776080132	Dipeptides	0.494134188
+Feature733	Amino acids and Peptides	0.566499949	Small peptides	0.706333399	Dipeptides	0.742012203
+Feature736	Amino acids and Peptides	0.795492113	Small peptides	0.787049651	Dipeptides	0.901429176
+Feature1119	Amino acids and Peptides	0.753823757	Small peptides	0.828546226	Dipeptides	0.64800024
+Feature2018	Amino acids and Peptides	0.597436249	Small peptides	0.58008194	Dipeptides	0.253623396
+Feature223	Amino acids and Peptides	0.83215183	Small peptides	0.908057332	Dipeptides	0.880370557
+Feature475	Amino acids and Peptides	0.606257558	Small peptides	0.74233222	Dipeptides	0.911088109
+Feature603	Amino acids and Peptides	0.474794596	Small peptides	0.633996725	Dipeptides	0.764313042
+Feature647	Amino acids and Peptides	0.534559309	Small peptides	0.673746645	Dipeptides	0.81565392
+Feature668	Amino acids and Peptides	0.52981174	Aminosugars and aminoglycosides	0.314480543	Dipeptides	0.167494357
+Feature721	Amino acids and Peptides	0.955291092	Small peptides	0.985456288	Dipeptides	0.999853611
+Feature786	Amino acids and Peptides	0.722891331	Small peptides	0.69193083	Dipeptides	0.835269332
+Feature801	Amino acids and Peptides	0.850808084	Small peptides	0.883789957	Dipeptides	0.951919436
+Feature911	Alkaloids	0.533621371	Small peptides	0.477856368	Dipeptides	0.206859931
+Feature936	Amino acids and Peptides	0.573966861	Small peptides	0.412528187	Dipeptides	0.651261687
+Feature937	Amino acids and Peptides	0.698567271	Small peptides	0.794506192	Dipeptides	0.96665591
+Feature983	Amino acids and Peptides	0.701426685	Small peptides	0.687930584	Dipeptides	0.969875693
+Feature986	Amino acids and Peptides	0.842062414	Small peptides	0.924104035	Dipeptides	0.919731379
+Feature1041	Amino acids and Peptides	0.644302785	Small peptides	0.685757458	Dipeptides	0.453791678
+Feature1083	Amino acids and Peptides	0.635879457	Small peptides	0.709450364	Dipeptides	0.977792621
+Feature1153	Amino acids and Peptides	0.720967114	Small peptides	0.807410181	Dipeptides	0.99158293
+Feature1269	Amino acids and Peptides	0.719735861	Small peptides	0.819879472	Dipeptides	0.691028059
+Feature1362	Amino acids and Peptides	0.934658527	Small peptides	0.980641901	Dipeptides	0.998705626
+Feature1400	Alkaloids	0.575350523	Ornithine alkaloids	0.463412672	Dipeptides	0.346960992
+Feature790	Amino acids and Peptides	0.810170114	Small peptides	0.705867887	Dipeptides	0.829032362
+Feature1409	Amino acids and Peptides	0.924688876	Small peptides	0.962733924	Dipeptides	0.670474648
+Feature1476	Amino acids and Peptides	0.602599919	Small peptides	0.540585101	Dipeptides	0.218886182
+Feature128	Amino acids and Peptides	0.746206343	Small peptides	0.860822618	Dipeptides	0.643946767
+Feature764	Alkaloids	0.593858778	Lysine alkaloids	0.468911856	Dipeptides	0.148941517
+Feature785	Amino acids and Peptides	0.342970639	Small peptides	0.614286304	Dipeptides	0.668183565
+Feature890	Alkaloids	0.54707706	Small peptides	0.233987808	Dipeptides	0.289429188
+Feature1052	Amino acids and Peptides	0.879298151	Small peptides	0.885955095	Dipeptides	0.736832738
+Feature1174	Amino acids and Peptides	0.700266421	Small peptides	0.634278178	Dipeptides	0.719281077
+Feature1265	Carbohydrates	0.557943523	Aminosugars and aminoglycosides	0.441553384	Dipeptides	0.302029908
+Feature1703	Fatty acids	0.632827699	Small peptides	0.421228886	Dipeptides	0.220545337
+Feature1929	Amino acids and Peptides	0.530053079	Small peptides	0.592526376	Dipeptides	0.315883994
+Feature2411	Alkaloids	0.590833485	Peptide alkaloids	0.474165291	Dipeptides	0.295063376
+Feature177	Carbohydrates	0.749933422	Saccharides	0.845924616	Disaccharides	0.920466602
+Feature296	Carbohydrates	0.910990179	Saccharides	0.95548743	Disaccharides	0.96438694
+Feature189	Carbohydrates	0.845603585	Saccharides	0.909725428	Disaccharides	0.9609043
+Feature301	Carbohydrates	0.830679536	Saccharides	0.909063399	Disaccharides	0.896479726
+Feature112	Carbohydrates	0.950452983	Saccharides	0.970958412	Disaccharides	0.970035493
+Feature144	Carbohydrates	0.743539631	Saccharides	0.800563812	Disaccharides	0.735495985
+Feature166	Carbohydrates	0.874037862	Saccharides	0.938797593	Disaccharides	0.955213845
+Feature179	Carbohydrates	0.599425256	Saccharides	0.722076893	Disaccharides	0.609724164
+Feature2028	Alkaloids	0.82887274	Tryptophan alkaloids	0.674575627	Ergot alkaloids	0.246663839
+Feature3173	Polyketides	0.547078729	Macrolides	0.576256633	Erythromycins	0.713094592
+Feature2470	Terpenoids	0.623966634	Sesquiterpenoids	0.483408332	Eudesmane sesquiterpenoids	0.18638581
+Feature3670	Fatty acids	0.762016654	Fatty esters	0.723931849	Fatty acyl carnitines	0.85590899
+Feature868	Amino acids and Peptides	0.520800769	Small peptides	0.337600231	Fatty acyl carnitines	0.20173578
+Feature939	Fatty acids	0.54950428	Fatty esters	0.186589077	Fatty acyl carnitines	0.195904955
+Feature69	Fatty acids	0.894684434	Fatty esters	0.965400577	Fatty acyl CoAs	0.953453422
+Feature163	Fatty acids	0.766926765	Fatty esters	0.907604575	Fatty acyl CoAs	0.920345008
+Feature2502	Carbohydrates	0.543450236	Saccharides	0.468941003	Fatty acyl glycosides of mono- and disaccharides	0.279239416
+Feature872	Fatty acids	0.586934626	Fatty acyl glycosides	0.441445798	Fatty acyl glycosides of mono- and disaccharides	0.278208554
+Feature1053	Fatty acids	0.575157046	Fatty acyl glycosides	0.630869627	Fatty acyl glycosides of mono- and disaccharides	0.524047852
+Feature1135	Fatty acids	0.622797072	Fatty acyl glycosides	0.694599032	Fatty acyl glycosides of mono- and disaccharides	0.677409351
+Feature1249	Fatty acids	0.51604563	Fatty acyl glycosides	0.501909256	Fatty acyl glycosides of mono- and disaccharides	0.435079873
+Feature1314	Fatty acids	0.607738197	Fatty acyl glycosides	0.579610825	Fatty acyl glycosides of mono- and disaccharides	0.532357931
+Feature1401	Fatty acids	0.709485412	Fatty acyl glycosides	0.645746469	Fatty acyl glycosides of mono- and disaccharides	0.546335518
+Feature1470	Fatty acids	0.625444055	Fatty acyl glycosides	0.523885071	Fatty acyl glycosides of mono- and disaccharides	0.314812988
+Feature1646	Fatty acids	0.630785704	Fatty acyl glycosides	0.651095271	Fatty acyl glycosides of mono- and disaccharides	0.359546006
+Feature1825	Polyketides	0.542756975	Linear polyketides	0.586643338	Fatty acyl glycosides of mono- and disaccharides	0.369645715
+Feature1838	Fatty acids	0.687498808	Fatty acyl glycosides	0.721321225	Fatty acyl glycosides of mono- and disaccharides	0.624293685
+Feature1867	Fatty acids	0.540810406	Glycerolipids	0.432346106	Fatty acyl glycosides of mono- and disaccharides	0.2796987
+Feature1931	Fatty acids	0.590872169	Fatty acyl glycosides	0.416861206	Fatty acyl glycosides of mono- and disaccharides	0.280814171
+Feature1935	Fatty acids	0.57880789	Fatty acyl glycosides	0.508175254	Fatty acyl glycosides of mono- and disaccharides	0.258605838
+Feature1966	Fatty acids	0.789767861	Fatty acyl glycosides	0.861939132	Fatty acyl glycosides of mono- and disaccharides	0.516551912
+Feature1992	Fatty acids	0.683751047	Fatty acyl glycosides	0.68356216	Fatty acyl glycosides of mono- and disaccharides	0.513153613
+Feature2057	Terpenoids	0.460249871	Linear polyketides	0.440256089	Fatty acyl glycosides of mono- and disaccharides	0.290199429
+Feature2062	Fatty acids	0.592266023	Fatty acyl glycosides	0.746637106	Fatty acyl glycosides of mono- and disaccharides	0.439957857
+Feature2118	Fatty acids	0.566949248	Fatty acyl glycosides	0.692670643	Fatty acyl glycosides of mono- and disaccharides	0.42899406
+Feature2121	Fatty acids	0.518945158	Glycerolipids	0.456572473	Fatty acyl glycosides of mono- and disaccharides	0.297670662
+Feature2152	Fatty acids	0.589746356	Linear polyketides	0.457955658	Fatty acyl glycosides of mono- and disaccharides	0.309633851
+Feature2209	Fatty acids	0.585130095	Fatty acyl glycosides	0.468816727	Fatty acyl glycosides of mono- and disaccharides	0.282950759
+Feature2339	Fatty acids	0.543403745	Fatty acyl glycosides	0.454119593	Fatty acyl glycosides of mono- and disaccharides	0.308608413
+Feature2362	Fatty acids	0.711141169	Fatty acyl glycosides	0.701319695	Fatty acyl glycosides of mono- and disaccharides	0.33548376
+Feature2423	Fatty acids	0.624838889	Fatty acyl glycosides	0.671007752	Fatty acyl glycosides of mono- and disaccharides	0.513467669
+Feature2804	Fatty acids	0.59991467	Fatty acyl glycosides	0.684663475	Fatty acyl glycosides of mono- and disaccharides	0.402631015
+Feature2833	Fatty acids	0.631961703	Fatty acyl glycosides	0.785921216	Fatty acyl glycosides of mono- and disaccharides	0.514781237
+Feature3521	Fatty acids	0.637247741	Fatty acyl glycosides	0.742386222	Fatty acyl glycosides of mono- and disaccharides	0.662400305
+Feature3532	Fatty acids	0.859233141	Fatty acyl glycosides	0.939775586	Fatty acyl glycosides of mono- and disaccharides	0.922130585
+Feature754	Fatty acids	0.576383948	Fatty amides	0.620804548	Fatty acyl homoserine lactones	0.677354693
+Feature3014	Fatty acids	0.687624991	Fatty amides	0.382107377	Fatty acyl homoserine lactones	0.452774465
+Feature1319	Fatty acids	0.838471174	Fatty acyls	0.769468725	Fatty alcohols	0.684313416
+Feature2375	Fatty acids	0.644788504	Fatty acyls	0.600604117	Fatty alcohols	0.792492211
+Feature3332	Fatty acids	0.89938134	Fatty acyls	0.582514644	Fatty alcohols	0.755976856
+Feature575	Fatty acids	0.603651166	Fatty acyls	0.710931003	Fatty alcohols	0.427355498
+Feature1080	Fatty acids	0.622073174	Fatty acyls	0.490320325	Fatty alcohols	0.531829655
+Feature1649	Fatty acids	0.651280165	Fatty acyls	0.689046085	Fatty alcohols	0.604446888
+Feature2364	Polyketides	0.566346705	Macrolides	0.328207582	Fatty alcohols	0.345160484
+Feature2802	Fatty acids	0.768884301	Fatty acyls	0.578895032	Fatty alcohols	0.714489818
+Feature1864	Fatty acids	0.531036854	Monoterpenoids	0.240700662	Fatty alcohols	0.277165681
+Feature288	Fatty acids	0.527969718	Fatty acyls	0.366404742	Fatty alcohols	0.144505009
+Feature1615	Fatty acids	0.636568904	Fatty acyls	0.568713188	Fatty alcohols	0.632213771
+Feature1842	Terpenoids	0.519752562	Fatty acyls	0.464112759	Fatty alcohols	0.342666447
+Feature2976	Fatty acids	0.550242722	Fatty acyls	0.339358985	Fatty alcohols	0.347758889
+Feature1347	Shikimates and Phenylpropanoids	0.916437984	Flavonoids	0.918559909	Flavandiols (Leucoanthocyanidins)	0.816682637
+Feature1527	Shikimates and Phenylpropanoids	0.811831415	Flavonoids	0.653393209	Flavanones	0.5711146
+Feature1225	Shikimates and Phenylpropanoids	0.872326553	Flavonoids	0.685194135	Flavones	0.600021482
+Feature1229	Shikimates and Phenylpropanoids	0.629923224	Flavonoids	0.573762834	Flavones	0.280974597
+Feature1830	Shikimates and Phenylpropanoids	0.629024327	Flavonoids	0.722209454	Flavonols	0.564240992
+Feature2860	Shikimates and Phenylpropanoids	0.684526384	Flavonoids	0.529305398	Flavonols	0.551847458
+Feature1084	Shikimates and Phenylpropanoids	0.970497668	Flavonoids	0.935423553	Flavonols	0.98039639
+Feature1565	Shikimates and Phenylpropanoids	0.980492234	Flavonoids	0.920125961	Flavonols	0.991553485
+Feature1323	Shikimates and Phenylpropanoids	0.822425783	Flavonoids	0.862733662	Flavonols	0.837506115
+Feature1949	Shikimates and Phenylpropanoids	0.525395691	Xanthones	0.426430523	Flavonols	0.408167183
+Feature183	Shikimates and Phenylpropanoids	0.855936885	Flavonoids	0.578454256	Flavonols	0.560763538
+Feature80	Shikimates and Phenylpropanoids	0.816790402	Phenolic acids (C6-C1)	0.815107405	Gallotannins	0.968901217
+Feature85	Shikimates and Phenylpropanoids	0.827487946	Phenolic acids (C6-C1)	0.897884607	Gallotannins	0.943934917
+Feature172	Carbohydrates	0.67873621	Amino acid glycosides	0.724944293	Glucosinolates	0.793949366
+Feature2393	Fatty acids	0.821631014	Glycerophospholipids	0.819432139	Glycerophosphates	0.656619608
+Feature2399	Alkaloids	0.563693047	Glycerophospholipids	0.3898184	Glycerophosphocholines	0.261777908
+Feature3108	Fatty acids	0.922925949	Glycerophospholipids	0.846402824	Glycerophosphoethanolamines	0.84739089
+Feature1728	Fatty acids	0.903984547	Glycerophospholipids	0.785357952	Glycerophosphoserines	0.785790741
+Feature1227	Terpenoids	0.521154404	Monoterpenoids	0.503858685	Glycosylmonoacylglycerols	0.337345541
+Feature1290	Terpenoids	0.588404417	Monoterpenoids	0.595781028	Glycosylmonoacylglycerols	0.309342504
+Feature2808	Fatty acids	0.601970553	Fatty acyl glycosides	0.589083016	Glycosylmonoacylglycerols	0.495175272
+Feature1258	Fatty acids	0.710690975	Fatty Acids and Conjugates	0.69359839	Hydroxy fatty acids	0.711385667
+Feature1572	Fatty acids	0.733241856	Fatty Acids and Conjugates	0.787681639	Hydroxy fatty acids	0.780744255
+Feature1580	Fatty acids	0.75617373	Fatty Acids and Conjugates	0.644739985	Hydroxy fatty acids	0.622267783
+Feature2177	Fatty acids	0.647169471	Fatty Acids and Conjugates	0.832597852	Hydroxy fatty acids	0.8871876
+Feature2592	Fatty acids	0.64403218	Fatty Acids and Conjugates	0.675758123	Hydroxy fatty acids	0.610697746
+Feature2747	Fatty acids	0.812192321	Fatty Acids and Conjugates	0.534783304	Hydroxy fatty acids	0.720405042
+Feature3032	Fatty acids	0.563163161	Fatty Acids and Conjugates	0.685639024	Hydroxy fatty acids	0.349644423
+Feature3239	Fatty acids	0.689340293	Fatty Acids and Conjugates	0.634358943	Hydroxy fatty acids	0.483268976
+Feature3259	Fatty acids	0.814095318	Fatty Acids and Conjugates	0.852822363	Hydroxy fatty acids	0.795149982
+Feature214	Fatty acids	0.763891995	Fatty Acids and Conjugates	0.92169863	Hydroxy fatty acids	0.753012836
+Feature224	Fatty acids	0.709225297	Fatty Acids and Conjugates	0.877327681	Hydroxy fatty acids	0.708994567
+Feature759	Fatty acids	0.827305019	Fatty Acids and Conjugates	0.952408373	Hydroxy fatty acids	0.721657515
+Feature1589	Fatty acids	0.518732846	Fatty Acids and Conjugates	0.284777194	Hydroxy fatty acids	0.143678531
+Feature1794	Fatty acids	0.676259041	Fatty Acids and Conjugates	0.823205829	Hydroxy fatty acids	0.815634549
+Feature1926	Fatty acids	0.629630089	Fatty Acids and Conjugates	0.695922613	Hydroxy fatty acids	0.608775437
+Feature1978	Fatty acids	0.857863128	Fatty Acids and Conjugates	0.638349354	Hydroxy fatty acids	0.574263752
+Feature2019	Fatty acids	0.837989986	Fatty Acids and Conjugates	0.751616359	Hydroxy fatty acids	0.663165331
+Feature2102	Fatty acids	0.704315543	Fatty Acids and Conjugates	0.746501923	Hydroxy fatty acids	0.851335168
+Feature2197	Fatty acids	0.629557967	Fatty Acids and Conjugates	0.633226871	Hydroxy fatty acids	0.418725014
+Feature2274	Fatty acids	0.593348324	Fatty Acids and Conjugates	0.350399971	Hydroxy fatty acids	0.356877416
+Feature2367	Fatty acids	0.808345973	Fatty Acids and Conjugates	0.835644901	Hydroxy fatty acids	0.843086183
+Feature2430	Fatty acids	0.82403332	Fatty Acids and Conjugates	0.924001634	Hydroxy fatty acids	0.923848152
+Feature2521	Fatty acids	0.78955245	Fatty Acids and Conjugates	0.663604975	Hydroxy fatty acids	0.514033079
+Feature2554	Fatty acids	0.820743799	Fatty Acids and Conjugates	0.889724016	Hydroxy fatty acids	0.958975911
+Feature2682	Fatty acids	0.565369666	Fatty Acids and Conjugates	0.527547896	Hydroxy fatty acids	0.601323843
+Feature2899	Fatty acids	0.535257161	Fatty Acids and Conjugates	0.571307719	Hydroxy fatty acids	0.671943605
+Feature2902	Fatty acids	0.62022078	Fatty Acids and Conjugates	0.696245253	Hydroxy fatty acids	0.580901742
+Feature3007	Fatty acids	0.819820762	Fatty Acids and Conjugates	0.687841713	Hydroxy fatty acids	0.773583531
+Feature3149	Fatty acids	0.538934231	Fatty Acids and Conjugates	0.422433704	Hydroxy fatty acids	0.295655221
+Feature3227	Fatty acids	0.710285485	Fatty Acids and Conjugates	0.849390209	Hydroxy fatty acids	0.78164494
+Feature3260	Fatty acids	0.840684414	Fatty Acids and Conjugates	0.794605732	Hydroxy fatty acids	0.47571221
+Feature3288	Fatty acids	0.595378935	Fatty Acids and Conjugates	0.618032455	Hydroxy fatty acids	0.634215236
+Feature3418	Fatty acids	0.837492526	Fatty Acids and Conjugates	0.850797117	Hydroxy fatty acids	0.837925196
+Feature3596	Fatty acids	0.832686901	Fatty Acids and Conjugates	0.769207656	Hydroxy fatty acids	0.68056345
+Feature519	Fatty acids	0.562834561	Fatty Acids and Conjugates	0.480971456	Hydroxy fatty acids	0.422920763
+Feature1510	Terpenoids	0.416511893	Fatty Acids and Conjugates	0.297269493	Hydroxy fatty acids	0.217294842
+Feature1689	Fatty acids	0.715832174	Fatty Acids and Conjugates	0.850354373	Hydroxy fatty acids	0.817596257
+Feature1762	Terpenoids	0.550306857	Sesquiterpenoids	0.391091079	Hydroxy fatty acids	0.375572801
+Feature1824	Fatty acids	0.619914472	Fatty Acids and Conjugates	0.694798052	Hydroxy fatty acids	0.567820549
+Feature1877	Fatty acids	0.729035258	Fatty Acids and Conjugates	0.743303478	Hydroxy fatty acids	0.71631515
+Feature2290	Polyketides	0.552892148	Fatty Acids and Conjugates	0.532179058	Hydroxy fatty acids	0.470693231
+Feature2450	Fatty acids	0.754739165	Fatty Acids and Conjugates	0.868291259	Hydroxy fatty acids	0.889476538
+Feature2508	Fatty acids	0.807131588	Fatty Acids and Conjugates	0.911139905	Hydroxy fatty acids	0.863871872
+Feature2517	Fatty acids	0.528234899	Fatty Acids and Conjugates	0.365661532	Hydroxy fatty acids	0.378984272
+Feature3472	Terpenoids	0.650633395	Sesquiterpenoids	0.793732345	Hydroxy fatty acids	0.40726772
+Feature3497	Fatty acids	0.76266098	Fatty Acids and Conjugates	0.336340666	Hydroxy fatty acids	0.545809031
+Feature374	Alkaloids	0.560761034	Lysine alkaloids	0.304590672	Imidazole alkaloids	0.251533449
+Feature1222	Alkaloids	0.844602168	Histidine alkaloids	0.458046079	Imidazole alkaloids	0.364418209
+Feature2212	Alkaloids	0.727469981	Histidine alkaloids	0.06996537	Imidazole alkaloids	0.070108995
+Feature1039	Alkaloids	0.558832645	Histidine alkaloids	0.16792497	Imidazole alkaloids	0.193463579
+Feature2313	Alkaloids	0.288944811	Histidine alkaloids	0.478144646	Imidazole alkaloids	0.515926123
+Feature3047	Fatty acids	0.400788993	Small peptides	0.39413476	Imidazole alkaloids	0.24093011
+Feature583	Terpenoids	0.244356945	Monoterpenoids	0.526595891	Iridoids monoterpenoids	0.466344297
+Feature1305	Terpenoids	0.522991717	Monoterpenoids	0.215367988	Iridoids monoterpenoids	0.288491845
+Feature1038	Terpenoids	0.803310513	Monoterpenoids	0.853043258	Iridoids monoterpenoids	0.729663134
+Feature2787	Shikimates and Phenylpropanoids	0.671025038	Isoflavonoids	0.447338462	Isoflavones	0.451453328
+Feature2031	Fatty acids	0.554496825	Octadecanoids	0.731512785	Jasmonic acids	0.529930174
+Feature1773	Fatty acids	0.675453722	Octadecanoids	0.70021081	Jasmonic acids	0.640196085
+Feature73	Alkaloids	0.463991553	Styrylpyrones	0.176768288	Kavalactones and derivatives	0.162339658
+Feature3638	Terpenoids	0.5760445	Sesquiterpenoids	0.515611887	Labdane diterpenoids	0.290750593
+Feature2975	Terpenoids	0.742250681	Triterpenoids	0.740432501	Lanostane, Tirucallane and Euphane triterpenoids	0.407078445
+Feature300	Fatty acids	0.238251209	Eicosanoids	0.51352036	Leukotrienes	0.274030924
+Feature1178	Fatty acids	0.623283982	Eicosanoids	0.727992117	Leukotrienes	0.356288731
+Feature1453	Fatty acids	0.906037807	Eicosanoids	0.997411788	Leukotrienes	0.968245625
+Feature1279	Amino acids and Peptides	0.853385866	Oligopeptides	0.563932538	Linear peptides	0.420620769
+Feature1944	Polyketides	0.566947699	Macrolides	0.607051432	Macrolide lactones	0.714232981
+Feature1127	Polyketides	0.303182989	Macrolides	0.589590549	Macrolide lactones	0.753911555
+Feature1247	Polyketides	0.783070326	Macrolides	0.646618247	Macrolide lactones	0.409236968
+Feature1558	Fatty acids	0.556136727	Macrolides	0.269958019	Macrolide lactones	0.355355501
+Feature1841	Fatty acids	0.461936921	Fatty acyl glycosides	0.297606796	Macrolide lactones	0.225455955
+Feature1389	Terpenoids	0.440020442	Monoterpenoids	0.239711002	Menthane monoterpenoids	0.24705179
+Feature1452	Terpenoids	0.534980536	Monoterpenoids	0.298547983	Menthane monoterpenoids	0.213580534
+Feature2376	Shikimates and Phenylpropanoids	0.54198432	Monoterpenoids	0.54109937	Menthane monoterpenoids	0.378830254
+Feature2551	Terpenoids	0.668297052	Monoterpenoids	0.509254456	Menthane monoterpenoids	0.489235431
+Feature975	Terpenoids	0.687001824	Monoterpenoids	0.4884893	Menthane monoterpenoids	0.298849732
+Feature2474	Terpenoids	0.552091002	Sesquiterpenoids	0.278129905	Menthane monoterpenoids	0.275823474
+Feature3584	Fatty acids	0.835596621	Fatty Acids and Conjugates	0.777185559	Methoxy fatty acids	0.738039494
+Feature2794	Fatty acids	0.830791652	Glycerolipids	0.76748246	Monoacylglycerols	0.803750038
+Feature3156	Fatty acids	0.857830763	Glycerolipids	0.731036901	Monoacylglycerols	0.754620433
+Feature1775	Fatty acids	0.634185076	Glycerolipids	0.45853135	Monoacylglycerols	0.455035061
+Feature1895	Polyketides	0.607500255	Linear polyketides	0.461273223	Monoacylglycerols	0.437436044
+Feature1956	Fatty acids	0.576866865	Glycerolipids	0.396696001	Monoacylglycerols	0.25733313
+Feature2341	Alkaloids	0.508021593	Small peptides	0.205152839	Monocyclic monoterpenoids	0.167264104
+Feature808	Terpenoids	0.575386822	Monoterpenoids	0.528632343	Monocyclic monoterpenoids	0.2066724
+Feature1114	Shikimates and Phenylpropanoids	0.661442637	Flavonoids	0.251400679	Monomeric stilbenes	0.248883963
+Feature1350	Shikimates and Phenylpropanoids	0.697436333	Stilbenoids	0.551524699	Monomeric stilbenes	0.60617286
+Feature1797	Shikimates and Phenylpropanoids	0.620280266	Stilbenoids	0.563161135	Monomeric stilbenes	0.623611569
+Feature168	Carbohydrates	0.528664708	Saccharides	0.585902631	Monosaccharides	0.553301513
+Feature205	Carbohydrates	0.802454948	Saccharides	0.917865336	Monosaccharides	0.903918803
+Feature336	Carbohydrates	0.663679004	Saccharides	0.842407346	Monosaccharides	0.828229666
+Feature401	Carbohydrates	0.559047163	Saccharides	0.561362982	Monosaccharides	0.594688416
+Feature530	Carbohydrates	0.593283951	Saccharides	0.672798157	Monosaccharides	0.597517192
+Feature1203	Carbohydrates	0.789612651	Saccharides	0.911601484	Monosaccharides	0.822324932
+Feature1959	Carbohydrates	0.568941355	Saccharides	0.739234746	Monosaccharides	0.727083921
+Feature81	Carbohydrates	0.813685834	Saccharides	0.823838949	Monosaccharides	0.695304811
+Feature84	Carbohydrates	0.69285202	Saccharides	0.79175669	Monosaccharides	0.473033637
+Feature94	Carbohydrates	0.550177574	Saccharides	0.593581855	Monosaccharides	0.579995811
+Feature197	Carbohydrates	0.600277305	Saccharides	0.680234551	Monosaccharides	0.63556087
+Feature512	Carbohydrates	0.767574191	Saccharides	0.876849234	Monosaccharides	0.787618876
+Feature788	Carbohydrates	0.753519595	Saccharides	0.788784504	Monosaccharides	0.710483372
+Feature864	Carbohydrates	0.788071036	Saccharides	0.886576533	Monosaccharides	0.730816305
+Feature2743	Carbohydrates	0.570593894	Saccharides	0.626318872	Monosaccharides	0.378131539
+Feature1339	Amino acids and Peptides	0.640737474	Mycosporine derivatives	0.207440943	Mycosporine and Mycosporine-like amino acids	0.204818323
+Feature2077	Amino acids and Peptides	0.745139956	Small peptides	0.61905998	Mycosporine and Mycosporine-like amino acids	0.298029482
+Feature777	Shikimates and Phenylpropanoids	0.578605592	Mycosporine derivatives	0.218817934	Mycosporine and Mycosporine-like amino acids	0.241651744
+Feature924	Shikimates and Phenylpropanoids	0.315831751	Phenolic acids (C6-C1)	0.288220346	Mycosporine and Mycosporine-like amino acids	0.220727265
+Feature965	Amino acids and Peptides	0.660282612	Mycosporine derivatives	0.157239601	Mycosporine and Mycosporine-like amino acids	0.175541043
+Feature978	Amino acids and Peptides	0.630452693	Mycosporine derivatives	0.724584758	Mycosporine and Mycosporine-like amino acids	0.734092176
+Feature3120	Amino acids and Peptides	0.547723234	Aminosugars and aminoglycosides	0.462518215	Mycosporine and Mycosporine-like amino acids	0.275206685
+Feature2261	Amino acids and Peptides	0.165382951	Fatty amides	0.213215783	N-acyl amines	0.108072907
+Feature538	Fatty acids	0.583600938	Fatty amides	0.75650984	N-acyl amines	0.779190242
+Feature1811	Fatty acids	0.615935504	Fatty esters	0.37532258	N-acyl amines	0.336919695
+Feature2418	Fatty acids	0.647498786	Fatty amides	0.445412844	N-acyl amines	0.379029721
+Feature3574	Fatty acids	0.548770308	Fatty amides	0.218038812	N-acyl amines	0.245104238
+Feature326	Fatty acids	0.502415061	Fatty amides	0.418245107	N-acyl amines	0.088052817
+Feature794	Fatty acids	0.571870387	Fatty amides	0.646543741	N-acyl amines	0.503620863
+Feature1254	Alkaloids	0.303685158	Fatty amides	0.157066107	N-acyl amines	0.214677468
+Feature1618	Fatty acids	0.597154677	Fatty amides	0.308337271	N-acyl amines	0.243745938
+Feature2162	Fatty acids	0.569770575	Fatty amides	0.381557673	N-acyl amines	0.225759163
+Feature2665	Fatty acids	0.664536893	Fatty amides	0.576294363	N-acyl amines	0.463062406
+Feature2669	Alkaloids	0.328677624	Guanidine alkaloids	0.481590658	N-acyl amines	0.178014621
+Feature2679	Fatty acids	0.555757761	Fatty amides	0.439702481	N-acyl amines	0.446830601
+Feature3181	Fatty acids	0.798749685	Fatty amides	0.522439361	N-acyl amines	0.490745187
+Feature964	Polyketides	0.573200226	Coumarins	0.394501448	Naphthalenes and derivatives	0.276021004
+Feature694	Shikimates and Phenylpropanoids	0.546096087	Naphthalenes	0.513158977	Naphthoquinones	0.623890102
+Feature1961	Polyketides	0.899229705	Macrolides	0.732836485	Oligomycins	0.44053483
+Feature1799	Fatty acids	0.54727757	Sphingolipids	0.395659715	Open-chain polyketides	0.438579202
+Feature2527	Polyketides	0.597841501	Linear polyketides	0.685225606	Open-chain polyketides	0.856935263
+Feature2672	Carbohydrates	0.433118463	Aminosugars and aminoglycosides	0.232488036	Open-chain polyketides	0.219898149
+Feature1734	Polyketides	0.668725014	Linear polyketides	0.71273905	Open-chain polyketides	0.633673489
+Feature1855	Polyketides	0.503793478	Linear polyketides	0.510034025	Open-chain polyketides	0.483635992
+Feature1979	Polyketides	0.706538916	Linear polyketides	0.578283727	Open-chain polyketides	0.361263335
+Feature2012	Polyketides	0.782767177	Linear polyketides	0.919077516	Open-chain polyketides	0.632813811
+Feature2026	Polyketides	0.634210646	Linear polyketides	0.661860108	Open-chain polyketides	0.39396283
+Feature2096	Polyketides	0.566597223	Linear polyketides	0.595379591	Open-chain polyketides	0.296846896
+Feature2854	Fatty acids	0.410881966	Fatty acyl glycosides	0.453595191	Open-chain polyketides	0.206397399
+Feature2355	Fatty acids	0.817074001	Octadecanoids	0.663542509	Other Octadecanoids	0.66477704
+Feature3033	Fatty acids	0.844863415	Octadecanoids	0.864868104	Other Octadecanoids	0.908401847
+Feature3061	Fatty acids	0.75720489	Fatty Acids and Conjugates	0.421973765	Other Octadecanoids	0.488811463
+Feature3674	Fatty acids	0.82157886	Eicosanoids	0.702437758	Other Octadecanoids	0.340555876
+Feature3687	Fatty acids	0.710300863	Octadecanoids	0.69125092	Other Octadecanoids	0.809360564
+Feature3716	Fatty acids	0.801381171	Octadecanoids	0.758954406	Other Octadecanoids	0.769224942
+Feature2643	Fatty acids	0.785064042	Octadecanoids	0.836011231	Other Octadecanoids	0.842916846
+Feature3359	Fatty acids	0.833261371	Octadecanoids	0.402393222	Other Octadecanoids	0.465254575
+Feature3429	Fatty acids	0.827486336	Octadecanoids	0.724738598	Other Octadecanoids	0.674352348
+Feature3683	Fatty acids	0.851323903	Fatty Acids and Conjugates	0.638062894	Other Octadecanoids	0.615563273
+Feature1661	Fatty acids	0.646245241	Fatty Acids and Conjugates	0.652818978	Oxo fatty acids	0.686360061
+Feature1537	Fatty acids	0.825558424	Fatty Acids and Conjugates	0.777738571	Oxo fatty acids	0.542987943
+Feature882	Shikimates and Phenylpropanoids	0.669279873	Phenanthrenoids	0.103338175	Oxygenated hydrocarbons	0.162087724
+Feature1579	Fatty acids	0.697365165	Fatty acyls	0.703524411	Oxygenated hydrocarbons	0.749367952
+Feature2587	Fatty acids	0.658881724	Fatty acyls	0.503464937	Paraconic acids and derivatives	0.555646837
+Feature1924	Amino acids and Peptides	0.540637493	Small peptides	0.4938097	Penicillins	0.170575514
+Feature504	Alkaloids	0.831186354	Anthranilic acid alkaloids	0.557974517	Phenazine alkaloids	0.266015142
+Feature529	Shikimates and Phenylpropanoids	0.626696646	Phenylethanoids (C6-C2)	0.438624799	Phenylethanoids	0.297137588
+Feature593	Alkaloids	0.719433129	Pseudoalkaloids	0.144901499	Phenylethylamines	0.235206351
+Feature2354	Alkaloids	0.47749874	Small peptides	0.308918864	Phenylethylamines	0.481538892
+Feature782	Alkaloids	0.609640062	Tyrosine alkaloids	0.669852912	Phenylethylamines	0.838889182
+Feature980	Alkaloids	0.49264735	Tyrosine alkaloids	0.360436708	Phenylethylamines	0.242115095
+Feature1162	Alkaloids	0.666919887	Tyrosine alkaloids	0.708430171	Phenylethylamines	0.881190658
+Feature1342	Alkaloids	0.624390125	Tyrosine alkaloids	0.667871773	Phenylethylamines	0.666460633
+Feature757	Amino acids and Peptides	0.551936507	Phenylpropanoids (C6-C3)	0.132247999	Phenylethylamines	0.145687461
+Feature793	Alkaloids	0.745945573	Tyrosine alkaloids	0.704150379	Phenylethylamines	0.807001412
+Feature946	Alkaloids	0.546088696	Small peptides	0.467270494	Phenylethylamines	0.500483513
+Feature1620	Fatty acids	0.542624831	Fatty Acids and Conjugates	0.416535079	Phenylethylamines	0.508872092
+Feature2608	Fatty acids	0.240586653	Nicotinic acid alkaloids	0.07681179	Phenylethylamines	0.075381055
+Feature2670	Fatty acids	0.541297317	Sphingolipids	0.182179883	Phenylethylamines	0.300084591
+Feature1044	Terpenoids	0.577226341	Sesquiterpenoids	0.481021881	Picrotoxane sesquiterpenoids	0.54164201
+Feature1700	Shikimates and Phenylpropanoids	0.643895745	Monoterpenoids	0.317885488	Pinane monoterpenoids	0.191899255
+Feature3299	Alkaloids	0.653541923	Lysine alkaloids	0.418220729	Piperidine alkaloids	0.445103228
+Feature1063	Alkaloids	0.659382939	Lysine alkaloids	0.532618582	Piperidine alkaloids	0.258992761
+Feature2074	Alkaloids	0.857703865	Tryptophan alkaloids	0.537904024	Piperidine alkaloids	0.438166767
+Feature1994	Polyketides	0.522364438	Xanthones	0.667367697	Plant xanthones	0.715401411
+Feature2115	Alkaloids	0.449604154	Small peptides	0.052336473	Polyamines	0.068753012
+Feature1535	Alkaloids	0.346764684	Ornithine alkaloids	0.130409449	Polyamines	0.19254902
+Feature2736	Carbohydrates	0.334887952	Ornithine alkaloids	0.065873861	Polyamines	0.088611238
+Feature3531	Alkaloids	0.660061479	Ornithine alkaloids	0.302321315	Polyamines	0.173689455
+Feature1236	Alkaloids	0.634082496	Pseudoalkaloids	0.200902149	Polyamines	0.085999295
+Feature3082	Amino acids and Peptides	0.320923299	Fatty amides	0.138982564	Polyamines	0.211788788
+Feature167	Carbohydrates	0.974303842	Saccharides	0.989737928	Polysaccharides	0.959406257
+Feature291	Carbohydrates	0.957375884	Saccharides	0.972258985	Polysaccharides	0.908632219
+Feature297	Carbohydrates	0.929442823	Saccharides	0.721718252	Polysaccharides	0.557476521
+Feature1376	Polyketides	0.622143924	Polycyclic aromatic polyketides	0.326935172	Pradimicins	0.198087782
+Feature1532	Terpenoids	0.586332142	Sesquiterpenoids	0.290547729	Prostaglandins	0.069922425
+Feature2691	Alkaloids	0.593324423	Ornithine alkaloids	0.08893165	Prostaglandins	0.138568908
+Feature3547	Fatty acids	0.680855155	Eicosanoids	0.445072651	Prostaglandins	0.213503823
+Feature3637	Fatty acids	0.677107871	Eicosanoids	0.447962582	Prostaglandins	0.544869781
+Feature2034	Alkaloids	0.519268572	Pseudoalkaloids	0.160730824	Prostaglandins	0.129100949
+Feature194	Alkaloids	0.687059522	Pseudoalkaloids	0.612918198	pteridine alkaloids	0.576146841
+Feature203	Alkaloids	0.665932059	Pseudoalkaloids	0.634298027	pteridine alkaloids	0.672325373
+Feature322	Alkaloids	0.649063885	Anthranilic acid alkaloids	0.577167213	pteridine alkaloids	0.283728629
+Feature344	Alkaloids	0.753997743	Pseudoalkaloids	0.588471591	pteridine alkaloids	0.773947835
+Feature826	Alkaloids	0.697440624	Pseudoalkaloids	0.554238319	pteridine alkaloids	0.219328135
+Feature1042	Alkaloids	0.575191438	Pseudoalkaloids	0.588738859	pteridine alkaloids	0.542043924
+Feature1336	Alkaloids	0.683058679	Pseudoalkaloids	0.634101927	pteridine alkaloids	0.649209917
+Feature206	Alkaloids	0.667462409	Pseudoalkaloids	0.591020226	pteridine alkaloids	0.563444436
+Feature285	Alkaloids	0.527377129	Pseudoalkaloids	0.574713051	pteridine alkaloids	0.620809853
+Feature397	Alkaloids	0.709728479	Pseudoalkaloids	0.607090533	pteridine alkaloids	0.845049202
+Feature431	Alkaloids	0.709791064	Pseudoalkaloids	0.541905522	pteridine alkaloids	0.393835664
+Feature551	Alkaloids	0.558351219	Nicotinic acid alkaloids	0.237516403	pteridine alkaloids	0.265301615
+Feature587	Alkaloids	0.74401015	Pseudoalkaloids	0.714410424	pteridine alkaloids	0.686974168
+Feature617	Alkaloids	0.530345321	Pseudoalkaloids	0.539187312	pteridine alkaloids	0.487634867
+Feature990	Alkaloids	0.591254711	Pseudoalkaloids	0.634958208	pteridine alkaloids	0.665586829
+Feature991	Alkaloids	0.54174906	Pseudoalkaloids	0.582992315	pteridine alkaloids	0.582209408
+Feature1282	Alkaloids	0.550607622	Pseudoalkaloids	0.576214015	pteridine alkaloids	0.62208885
+Feature1366	Alkaloids	0.608326554	Pseudoalkaloids	0.623953938	pteridine alkaloids	0.589206874
+Feature2072	Alkaloids	0.320647925	Pseudoalkaloids	0.113627173	pteridine alkaloids	0.522215366
+Feature1509	Alkaloids	0.553208947	Pseudoalkaloids	0.541826963	pteridine alkaloids	0.313849241
+Feature1866	Alkaloids	0.567622125	Pseudoalkaloids	0.608199358	pteridine alkaloids	0.622244895
+Feature113	Alkaloids	0.524808943	Pseudoalkaloids	0.546722889	pteridine alkaloids	0.726348519
+Feature796	Alkaloids	0.569180846	Pseudoalkaloids	0.551330984	pteridine alkaloids	0.681563139
+Feature943	Alkaloids	0.756059647	Pseudoalkaloids	0.707990468	pteridine alkaloids	0.663670003
+Feature204	Alkaloids	0.685088396	Pseudoalkaloids	0.541291654	Purine alkaloids	0.548219502
+Feature703	Alkaloids	0.678349197	Pseudoalkaloids	0.616204321	Purine alkaloids	0.277830213
+Feature2340	Alkaloids	0.770882964	Pseudoalkaloids	0.77200973	Purine alkaloids	0.66808331
+Feature2469	Alkaloids	0.673580766	Pseudoalkaloids	0.578047872	Purine alkaloids	0.474565417
+Feature2856	Alkaloids	0.711743891	Pseudoalkaloids	0.367480397	Purine alkaloids	0.408789515
+Feature3063	Alkaloids	0.570714891	Pseudoalkaloids	0.123778068	Purine alkaloids	0.197669923
+Feature1847	Alkaloids	0.718306422	Pseudoalkaloids	0.587374985	Purine alkaloids	0.587855756
+Feature111	Alkaloids	0.649085045	Pseudoalkaloids	0.591721117	Purine alkaloids	0.196126699
+Feature2146	Alkaloids	0.843990147	Pseudoalkaloids	0.703008592	Purine alkaloids	0.832036078
+Feature170	Alkaloids	0.716814578	Pseudoalkaloids	0.657302439	Purine alkaloids	0.574291587
+Feature671	Alkaloids	0.552763104	Pseudoalkaloids	0.518059075	Purine alkaloids	0.468268156
+Feature765	Alkaloids	0.633512914	Pseudoalkaloids	0.166536689	Purine alkaloids	0.501397789
+Feature1487	Alkaloids	0.639097095	Pseudoalkaloids	0.196862847	Purine alkaloids	0.159726635
+Feature2194	Alkaloids	0.611829579	Pseudoalkaloids	0.248378813	Purine alkaloids	0.284770787
+Feature59	Shikimates and Phenylpropanoids	0.53968662	Nucleosides	0.410495877	Purine nucleos(t)ides	0.261054724
+Feature61	Carbohydrates	0.505396068	Nucleosides	0.51568681	Purine nucleos(t)ides	0.488228202
+Feature66	Carbohydrates	0.756311178	Nucleosides	0.790295839	Purine nucleos(t)ides	0.823466003
+Feature120	Carbohydrates	0.724207222	Nucleosides	0.745744169	Purine nucleos(t)ides	0.833739579
+Feature127	Carbohydrates	0.73476094	Nucleosides	0.761634231	Purine nucleos(t)ides	0.714049518
+Feature343	Carbohydrates	0.702580512	Nucleosides	0.663458526	Purine nucleos(t)ides	0.635631919
+Feature1173	Carbohydrates	0.725171208	Nucleosides	0.762673616	Purine nucleos(t)ides	0.839502096
+Feature79	Carbohydrates	0.923042476	Nucleosides	0.910476804	Purine nucleos(t)ides	0.92706883
+Feature89	Carbohydrates	0.610740423	Nucleosides	0.56531322	Purine nucleos(t)ides	0.484065592
+Feature95	Carbohydrates	0.580931008	Nucleosides	0.569470525	Purine nucleos(t)ides	0.574497581
+Feature180	Carbohydrates	0.742088497	Nucleosides	0.735945165	Purine nucleos(t)ides	0.748473763
+Feature199	Carbohydrates	0.727897465	Nucleosides	0.815761387	Purine nucleos(t)ides	0.825186133
+Feature254	Carbohydrates	0.625212729	Nucleosides	0.657622039	Purine nucleos(t)ides	0.651715994
+Feature280	Carbohydrates	0.686958373	Nucleosides	0.740694761	Purine nucleos(t)ides	0.696921527
+Feature360	Carbohydrates	0.572055936	Nucleosides	0.539033055	Purine nucleos(t)ides	0.329320014
+Feature367	Carbohydrates	0.884808838	Nucleosides	0.87375319	Purine nucleos(t)ides	0.82716912
+Feature418	Carbohydrates	0.616134346	Nucleosides	0.674213529	Purine nucleos(t)ides	0.602730274
+Feature591	Carbohydrates	0.640989602	Nucleosides	0.631107211	Purine nucleos(t)ides	0.607710838
+Feature1009	Carbohydrates	0.878520548	Nucleosides	0.896385431	Purine nucleos(t)ides	0.945245028
+Feature1012	Carbohydrates	0.840027869	Nucleosides	0.878019214	Purine nucleos(t)ides	0.873209119
+Feature1759	Carbohydrates	0.681247711	Nucleosides	0.669938922	Purine nucleos(t)ides	0.598268509
+Feature185	Carbohydrates	0.835324287	Nucleosides	0.859755158	Purine nucleos(t)ides	0.89288801
+Feature350	Alkaloids	0.61977762	Pseudoalkaloids	0.507494867	Purine nucleos(t)ides	0.523144007
+Feature1938	Alkaloids	0.558906078	Nucleosides	0.453122109	Purine nucleos(t)ides	0.194536582
+Feature108	Carbohydrates	0.87365979	Nucleosides	0.887806296	Purine nucleos(t)ides	0.864292324
+Feature121	Carbohydrates	0.838553905	Nucleosides	0.868268251	Purine nucleos(t)ides	0.823385775
+Feature869	Carbohydrates	0.661647916	Nucleosides	0.708501577	Purine nucleos(t)ides	0.682677984
+Feature922	Carbohydrates	0.691024721	Nucleosides	0.591016591	Purine nucleos(t)ides	0.521389544
+Feature1006	Carbohydrates	0.777397871	Nucleosides	0.639865816	Purine nucleos(t)ides	0.620007336
+Feature1019	Carbohydrates	0.593253553	Nucleosides	0.620051622	Purine nucleos(t)ides	0.504938841
+Feature1068	Carbohydrates	0.650171638	Nucleosides	0.556109548	Purine nucleos(t)ides	0.611977041
+Feature1102	Alkaloids	0.611847103	Pseudoalkaloids	0.566915751	Purine nucleos(t)ides	0.508117795
+Feature15	Alkaloids	0.6929093	Nicotinic acid alkaloids	0.822070599	Pyridine alkaloids	0.824910879
+Feature361	Alkaloids	0.56445682	Nicotinic acid alkaloids	0.681772947	Pyridine alkaloids	0.690245092
+Feature543	Alkaloids	0.226856619	Nicotinic acid alkaloids	0.104987063	Pyridine alkaloids	0.112413794
+Feature865	Alkaloids	0.181062311	Nicotinic acid alkaloids	0.574865043	Pyridine alkaloids	0.581655443
+Feature3202	Alkaloids	0.672656119	Nicotinic acid alkaloids	0.443843961	Pyridine alkaloids	0.478114009
+Feature314	Alkaloids	0.364285201	Small peptides	0.554382205	Pyridine alkaloids	0.524589777
+Feature423	Alkaloids	0.65902704	Nicotinic acid alkaloids	0.322354645	Pyridine alkaloids	0.354482174
+Feature440	Alkaloids	0.463854581	Small peptides	0.530781567	Pyridine alkaloids	0.517647505
+Feature871	Alkaloids	0.679756224	Nicotinic acid alkaloids	0.581438482	Pyridine alkaloids	0.587879241
+Feature1539	Alkaloids	0.623598218	Nicotinic acid alkaloids	0.542542994	Pyridine alkaloids	0.538373768
+Feature353	Alkaloids	0.54945296	Nicotinic acid alkaloids	0.665014267	Pyridine alkaloids	0.670796216
+Feature659	Alkaloids	0.703388691	Nicotinic acid alkaloids	0.647137403	Pyridine alkaloids	0.651882946
+Feature1567	Alkaloids	0.7409482	Pseudoalkaloids	0.240545645	Pyridine alkaloids	0.19270055
+Feature2161	Alkaloids	0.534185946	Fatty amides	0.377823979	Pyridine alkaloids	0.245077595
+Feature186	Carbohydrates	0.711034238	Nucleosides	0.589066923	Pyrimidine nucleos(t)ides	0.478200376
+Feature212	Carbohydrates	0.690537214	Nucleosides	0.783661246	Pyrimidine nucleos(t)ides	0.571324944
+Feature555	Carbohydrates	0.602548242	Nucleosides	0.539601266	Pyrimidine nucleos(t)ides	0.375557244
+Feature559	Carbohydrates	0.891818225	Nucleosides	0.912328899	Pyrimidine nucleos(t)ides	0.933014274
+Feature581	Amino acids and Peptides	0.599531591	Small peptides	0.379839778	Pyrimidine nucleos(t)ides	0.227202326
+Feature1709	Alkaloids	0.32188347	Nucleosides	0.142234117	Pyrimidine nucleos(t)ides	0.124002717
+Feature1865	Carbohydrates	0.737298787	Nucleosides	0.522035241	Pyrimidine nucleos(t)ides	0.255470127
+Feature2652	Carbohydrates	0.400041103	Small peptides	0.516257584	Pyrimidine nucleos(t)ides	0.553990722
+Feature78	Amino acids and Peptides	0.563465953	Nucleosides	0.43649739	Pyrimidine nucleos(t)ides	0.487445861
+Feature363	Carbohydrates	0.467448592	Nucleosides	0.253137976	Pyrimidine nucleos(t)ides	0.229187295
+Feature390	Carbohydrates	0.805911839	Nucleosides	0.867687345	Pyrimidine nucleos(t)ides	0.882097721
+Feature393	Alkaloids	0.317101747	Small peptides	0.327723086	Pyrimidine nucleos(t)ides	0.255992264
+Feature734	Alkaloids	0.563641667	Guanidine alkaloids	0.40338093	Pyrimidine nucleos(t)ides	0.33796975
+Feature743	Alkaloids	0.578725934	Pseudoalkaloids	0.469981819	Pyrimidine nucleos(t)ides	0.282692492
+Feature1002	Carbohydrates	0.658097804	Nucleosides	0.589785755	Pyrimidine nucleos(t)ides	0.386907488
+Feature1142	Carbohydrates	0.681008995	Nucleosides	0.689436793	Pyrimidine nucleos(t)ides	0.410206139
+Feature1432	Carbohydrates	0.574098647	Nucleosides	0.510873079	Pyrimidine nucleos(t)ides	0.304507375
+Feature2524	Alkaloids	0.785311282	Tryptophan alkaloids	0.618492365	Quinoline alkaloids	0.433055013
+Feature2353	Alkaloids	0.747738421	Lysine alkaloids	0.573139012	Quinolizidine alkaloids	0.512764633
+Feature2832	Alkaloids	0.708098173	Lysine alkaloids	0.2806108	Quinolizidine alkaloids	0.357985675
+Feature3360	Alkaloids	0.656561196	Guanidine alkaloids	0.484454244	Quinolizidine alkaloids	0.501098096
+Feature1410	Alkaloids	0.718941391	Pseudoalkaloids	0.47286126	Quinolizidine alkaloids	0.048083335
+Feature3615	Alkaloids	0.532261968	Guanidine alkaloids	0.22541301	Saxitoxins	0.253613085
+Feature2143	Terpenoids	0.462982923	Monoterpenoids	0.474590003	Secoiridoid monoterpenoids	0.419437706
+Feature847	Shikimates and Phenylpropanoids	0.668953478	Phenanthrenoids	0.201021463	Shikimic acids and derivatives	0.312080115
+Feature1993	Alkaloids	0.701285303	Peptide alkaloids	0.547283113	Simple amide alkaloids	0.305952996
+Feature1056	Shikimates and Phenylpropanoids	0.481417298	Macrolides	0.23867546	Simple aromatic polyketides	0.311524987
+Feature1353	Shikimates and Phenylpropanoids	0.644639671	Flavonoids	0.381736368	Simple coumarins	0.143339902
+Feature447	Alkaloids	0.862751484	Tryptophan alkaloids	0.699363887	Simple indole alkaloids	0.709605396
+Feature665	Alkaloids	0.627510607	Tryptophan alkaloids	0.534876168	Simple indole alkaloids	0.663303494
+Feature940	Alkaloids	0.891394198	Tryptophan alkaloids	0.894659579	Simple indole alkaloids	0.955928504
+Feature992	Alkaloids	0.61607486	Tryptophan alkaloids	0.681852877	Simple indole alkaloids	0.74964869
+Feature1492	Alkaloids	0.775025606	Tryptophan alkaloids	0.615664899	Simple indole alkaloids	0.901651442
+Feature1667	Alkaloids	0.782520294	Tryptophan alkaloids	0.669559181	Simple indole alkaloids	0.743217707
+Feature1717	Alkaloids	0.713712931	Tryptophan alkaloids	0.372390747	Simple indole alkaloids	0.449234992
+Feature2323	Alkaloids	0.76655519	Tryptophan alkaloids	0.52107954	Simple indole alkaloids	0.288241714
+Feature2347	Alkaloids	0.785510778	Tryptophan alkaloids	0.609234035	Simple indole alkaloids	0.343359798
+Feature767	Alkaloids	0.596427381	Tryptophan alkaloids	0.714942873	Simple indole alkaloids	0.882007301
+Feature1191	Alkaloids	0.862292767	Tryptophan alkaloids	0.801272988	Simple indole alkaloids	0.524635017
+Feature2351	Alkaloids	0.645571113	Tryptophan alkaloids	0.538003504	Simple oxindole alkaloids	0.535300314
+Feature471	Shikimates and Phenylpropanoids	0.555297554	Phenolic acids (C6-C1)	0.526363134	Simple phenolic acids	0.184700251
+Feature482	Shikimates and Phenylpropanoids	0.910274863	Phenolic acids (C6-C1)	0.843444407	Simple phenolic acids	0.829586506
+Feature532	Shikimates and Phenylpropanoids	0.76948458	Phenolic acids (C6-C1)	0.694729865	Simple phenolic acids	0.713496327
+Feature760	Shikimates and Phenylpropanoids	0.649365485	Phenolic acids (C6-C1)	0.666407287	Simple phenolic acids	0.686826646
+Feature827	Terpenoids	0.585523903	Phenolic acids (C6-C1)	0.490176886	Simple phenolic acids	0.436558604
+Feature843	Shikimates and Phenylpropanoids	0.931540191	Phenolic acids (C6-C1)	0.81366998	Simple phenolic acids	0.772703946
+Feature863	Shikimates and Phenylpropanoids	0.873389006	Phenolic acids (C6-C1)	0.896946788	Simple phenolic acids	0.879924953
+Feature893	Shikimates and Phenylpropanoids	0.823397577	Phenolic acids (C6-C1)	0.723875284	Simple phenolic acids	0.69089365
+Feature913	Shikimates and Phenylpropanoids	0.711522043	Phenolic acids (C6-C1)	0.61454463	Simple phenolic acids	0.628481209
+Feature945	Shikimates and Phenylpropanoids	0.657607555	Phenolic acids (C6-C1)	0.765298486	Simple phenolic acids	0.768511355
+Feature1013	Shikimates and Phenylpropanoids	0.50525856	Phenolic acids (C6-C1)	0.41503948	Simple phenolic acids	0.475195318
+Feature1024	Shikimates and Phenylpropanoids	0.883824229	Phenolic acids (C6-C1)	0.766906857	Simple phenolic acids	0.741188228
+Feature1069	Shikimates and Phenylpropanoids	0.695240557	Phenolic acids (C6-C1)	0.801202357	Simple phenolic acids	0.806684732
+Feature1235	Terpenoids	0.556837499	Phenolic acids (C6-C1)	0.291740805	Simple phenolic acids	0.310915589
+Feature1250	Shikimates and Phenylpropanoids	0.729065478	Phenolic acids (C6-C1)	0.638302565	Simple phenolic acids	0.640054524
+Feature1261	Shikimates and Phenylpropanoids	0.742186427	Phenolic acids (C6-C1)	0.718141258	Simple phenolic acids	0.702144086
+Feature1380	Shikimates and Phenylpropanoids	0.297235638	Phenolic acids (C6-C1)	0.125709608	Simple phenolic acids	0.142858148
+Feature1520	Shikimates and Phenylpropanoids	0.505280495	Phenolic acids (C6-C1)	0.674770057	Simple phenolic acids	0.660281241
+Feature1536	Shikimates and Phenylpropanoids	0.548258543	Phenolic acids (C6-C1)	0.587077677	Simple phenolic acids	0.548192739
+Feature1784	Shikimates and Phenylpropanoids	0.527467132	Phenolic acids (C6-C1)	0.378680855	Simple phenolic acids	0.448828489
+Feature1821	Terpenoids	0.47401154	Phenolic acids (C6-C1)	0.211865097	Simple phenolic acids	0.266209394
+Feature2284	Shikimates and Phenylpropanoids	0.694222689	Phenolic acids (C6-C1)	0.593340456	Simple phenolic acids	0.593739986
+Feature2640	Shikimates and Phenylpropanoids	0.618271172	Phenolic acids (C6-C1)	0.52733165	Simple phenolic acids	0.532070756
+Feature136	Shikimates and Phenylpropanoids	0.722528636	Phenolic acids (C6-C1)	0.572238564	Simple phenolic acids	0.576668262
+Feature540	Shikimates and Phenylpropanoids	0.693115234	Phenolic acids (C6-C1)	0.536849558	Simple phenolic acids	0.547093034
+Feature1331	Shikimates and Phenylpropanoids	0.772114754	Phenolic acids (C6-C1)	0.562632203	Simple phenolic acids	0.534186423
+Feature1333	Shikimates and Phenylpropanoids	0.627284408	Phenolic acids (C6-C1)	0.351128757	Simple phenolic acids	0.304192632
+Feature1363	Shikimates and Phenylpropanoids	0.339057177	Phenolic acids (C6-C1)	0.15443103	Simple phenolic acids	0.179325551
+Feature1713	Shikimates and Phenylpropanoids	0.894417822	Phenolic acids (C6-C1)	0.727560997	Simple phenolic acids	0.715685666
+Feature1781	Polyketides	0.224398106	Fatty Acids and Conjugates	0.17657879	Simple phenolic acids	0.121511094
+Feature1224	Shikimates and Phenylpropanoids	0.531842113	Phenolic acids (C6-C1)	0.454231888	Simple phenolic acids	0.513947845
+Feature1483	Polyketides	0.547029734	Phenolic acids (C6-C1)	0.253935248	Simple phenolic acids	0.338358879
+Feature1803	Shikimates and Phenylpropanoids	0.624026477	Phenolic acids (C6-C1)	0.600654185	Simple phenolic acids	0.593818843
+Feature245	Shikimates and Phenylpropanoids	0.932550848	Phenolic acids (C6-C1)	0.961798906	Simple phenolic acids	0.952358305
+Feature349	Shikimates and Phenylpropanoids	0.925851464	Phenolic acids (C6-C1)	0.954671443	Simple phenolic acids	0.942406714
+Feature515	Shikimates and Phenylpropanoids	0.57412827	Pseudoalkaloids	0.153360695	Simple phenolic acids	0.048928302
+Feature709	Shikimates and Phenylpropanoids	0.812406719	Phenolic acids (C6-C1)	0.759608686	Simple phenolic acids	0.766416907
+Feature1051	Shikimates and Phenylpropanoids	0.711965561	Phenolic acids (C6-C1)	0.607988119	Simple phenolic acids	0.599487543
+Feature1104	Shikimates and Phenylpropanoids	0.544516087	Phenolic acids (C6-C1)	0.543541372	Simple phenolic acids	0.523118973
+Feature1189	Shikimates and Phenylpropanoids	0.508735478	Phenolic acids (C6-C1)	0.26355204	Simple phenolic acids	0.287154973
+Feature1905	Fatty acids	0.756765902	Fatty acyl glycosides	0.753247082	Sophorolipids	0.718217254
+Feature2032	Fatty acids	0.686493695	Fatty acyl glycosides	0.791746259	Sophorolipids	0.747500658
+Feature2095	Fatty acids	0.536257148	Fatty acyl glycosides	0.613115668	Sophorolipids	0.325420588
+Feature2185	Terpenoids	0.56099546	Fatty acyl glycosides	0.467528194	Sophorolipids	0.238274977
+Feature2201	Fatty acids	0.660508573	Fatty acyl glycosides	0.658425987	Sophorolipids	0.489220262
+Feature2821	Fatty acids	0.599025428	Fatty acyl glycosides	0.736654699	Sophorolipids	0.764005363
+Feature2838	Fatty acids	0.525601923	Fatty acyl glycosides	0.587407887	Sophorolipids	0.294243276
+Feature2716	Fatty acids	0.513544977	Linear polyketides	0.222160876	Sphingoid bases	0.192046449
+Feature2842	Fatty acids	0.678516686	Fatty amides	0.172793701	Sphingoid bases	0.146905228
+Feature3595	Fatty acids	0.857389748	Sphingolipids	0.902296484	Sphingoid bases	0.988613963
+Feature3277	Fatty acids	0.720771849	Sphingolipids	0.61952436	Sphingoid bases	0.706691504
+Feature3350	Fatty acids	0.627315879	Sphingolipids	0.785487831	Sphingoid bases	0.832400382
+Feature3698	Fatty acids	0.626905143	Sphingolipids	0.53513217	Sphingoid bases	0.590945065
+Feature1619	Alkaloids	0.550743341	Guanidine alkaloids	0.512795627	Sphingoid bases	0.382226557
+Feature2159	Fatty acids	0.789786458	Sphingolipids	0.953716397	Sphingoid bases	0.995509624
+Feature2668	Fatty acids	0.675043762	Sphingolipids	0.310095876	Sphingoid bases	0.266963214
+Feature2673	Fatty acids	0.792546153	Sphingolipids	0.377261549	Sphingoid bases	0.368411869
+Feature2674	Fatty acids	0.664446712	Sphingolipids	0.507056475	Sphingoid bases	0.406763554
+Feature2676	Fatty acids	0.779407144	Sphingolipids	0.707712531	Sphingoid bases	0.836844921
+Feature3169	Fatty acids	0.609796166	Sphingolipids	0.730652869	Sphingoid bases	0.460273147
+Feature3175	Fatty acids	0.667828679	Sphingolipids	0.413551033	Sphingoid bases	0.341496795
+Feature3177	Fatty acids	0.656205714	Sphingolipids	0.792868078	Sphingoid bases	0.894469798
+Feature3179	Fatty acids	0.78056407	Sphingolipids	0.600477815	Sphingoid bases	0.645927131
+Feature462	Amino acids and Peptides	0.596227646	Peptide alkaloids	0.167891145	Tantazoles and mirabazoles	0.071679167
+Feature2004	Fatty acids	0.818205237	Fatty Acids and Conjugates	0.708405316	Thia fatty acids	0.911685884
+Feature774	Fatty acids	0.534009635	Fatty Acids and Conjugates	0.423160404	Thia fatty acids	0.259397835
+Feature795	Fatty acids	0.789099693	Fatty Acids and Conjugates	0.805111945	Thia fatty acids	0.973775446
+Feature1228	Amino acids and Peptides	0.676574588	Peptide alkaloids	0.573455751	Thiodiketopiperazine alkaloids	0.235616848
+Feature818	Alkaloids	0.683894873	Peptide alkaloids	0.434277833	Thiodiketopiperazine alkaloids	0.606479645
+Feature2491	Alkaloids	0.683323562	Guanidine alkaloids	0.452478617	Tricyclic guanidine alkaloids	0.225851476
+Feature421	Amino acids and Peptides	0.821165502	Small peptides	0.645862401	Tripeptides	0.586092889
+Feature616	Amino acids and Peptides	0.747551203	Small peptides	0.830220878	Tripeptides	0.572634637
+Feature678	Amino acids and Peptides	0.620094478	ÃŽÂ²-lactams	0.595452189	Tripeptides	0.500508845
+Feature2211	Amino acids and Peptides	0.716823101	Small peptides	0.796631515	Tripeptides	0.770576
+Feature2488	Amino acids and Peptides	0.543408096	Small peptides	0.623151362	Tripeptides	0.566007018
+Feature2558	Amino acids and Peptides	0.644396722	Small peptides	0.762824833	Tripeptides	0.696728468
+Feature2636	Amino acids and Peptides	0.670475483	Small peptides	0.805889308	Tripeptides	0.209986255
+Feature187	Carbohydrates	0.452258438	Small peptides	0.525012136	Tripeptides	0.349571854
+Feature400	Amino acids and Peptides	0.498973578	Small peptides	0.613395333	Tripeptides	0.575375378
+Feature410	Amino acids and Peptides	0.836752772	Small peptides	0.938425899	Tripeptides	0.806117058
+Feature419	Amino acids and Peptides	0.781746507	Small peptides	0.841400504	Tripeptides	0.624714255
+Feature472	Amino acids and Peptides	0.876174986	Small peptides	0.935232699	Tripeptides	0.773099363
+Feature556	Amino acids and Peptides	0.84508425	Small peptides	0.886906266	Tripeptides	0.770302117
+Feature564	Amino acids and Peptides	0.768978655	Small peptides	0.838614762	Tripeptides	0.586351395
+Feature701	Amino acids and Peptides	0.820859194	Small peptides	0.925473452	Tripeptides	0.807090461
+Feature726	Fatty acids	0.134297505	Small peptides	0.194843173	Tripeptides	0.057787072
+Feature737	Amino acids and Peptides	0.624730468	Small peptides	0.509627104	Tripeptides	0.54449439
+Feature758	Amino acids and Peptides	0.535463333	Small peptides	0.619230807	Tripeptides	0.540578067
+Feature999	Amino acids and Peptides	0.82736218	Small peptides	0.942449987	Tripeptides	0.811175883
+Feature1058	Amino acids and Peptides	0.863975823	Small peptides	0.888077915	Tripeptides	0.729765713
+Feature1405	Amino acids and Peptides	0.694638312	Small peptides	0.908052325	Tripeptides	0.738901615
+Feature1443	Amino acids and Peptides	0.919518888	Small peptides	0.897697985	Tripeptides	0.797045648
+Feature1676	Amino acids and Peptides	0.796036124	Small peptides	0.73410207	Tripeptides	0.593087554
+Feature1742	Amino acids and Peptides	0.891553104	Small peptides	0.648377001	Tripeptides	0.482544959
+Feature1757	Amino acids and Peptides	0.607925892	Small peptides	0.623479843	Tripeptides	0.672617018
+Feature1858	Amino acids and Peptides	0.61873585	Small peptides	0.788145542	Tripeptides	0.669731796
+Feature1943	Amino acids and Peptides	0.767531514	Small peptides	0.784240246	Tripeptides	0.639350533
+Feature1989	Amino acids and Peptides	0.818250775	Small peptides	0.913170218	Tripeptides	0.820679069
+Feature1991	Amino acids and Peptides	0.828977048	Small peptides	0.832799077	Tripeptides	0.725499868
+Feature2036	Amino acids and Peptides	0.747852504	Small peptides	0.788430452	Tripeptides	0.638954818
+Feature2227	Amino acids and Peptides	0.6433025	Small peptides	0.714191437	Tripeptides	0.662032127
+Feature2317	Amino acids and Peptides	0.45087409	Small peptides	0.5224787	Tripeptides	0.531933665
+Feature2462	Amino acids and Peptides	0.681856096	Small peptides	0.764809906	Tripeptides	0.640996695
+Feature2464	Amino acids and Peptides	0.665315747	Small peptides	0.696833432	Tripeptides	0.653851092
+Feature2496	Amino acids and Peptides	0.415346473	Small peptides	0.281834364	Tripeptides	0.310818672
+Feature2564	Amino acids and Peptides	0.553812385	Small peptides	0.606475174	Tripeptides	0.585013032
+Feature2983	Amino acids and Peptides	0.842700839	Small peptides	0.812767327	Tripeptides	0.727791369
+Feature3001	Amino acids and Peptides	0.663518012	Small peptides	0.751647532	Tripeptides	0.642188191
+Feature3029	Amino acids and Peptides	0.792918384	Small peptides	0.903270125	Tripeptides	0.752301335
+Feature3229	Amino acids and Peptides	0.664575875	Small peptides	0.618378997	Tripeptides	0.549944639
+Feature3354	Amino acids and Peptides	0.859413683	Small peptides	0.673690617	Tripeptides	0.640005589
+Feature3375	Amino acids and Peptides	0.814645171	Small peptides	0.801666439	Tripeptides	0.712159634
+Feature3613	Fatty acids	0.240048632	Small peptides	0.175375149	Tripeptides	0.388314098
+Feature110	Amino acids and Peptides	0.696450233	Small peptides	0.892275989	Tripeptides	0.698744178
+Feature364	Amino acids and Peptides	0.83571285	Small peptides	0.897711754	Tripeptides	0.730692804
+Feature1099	Amino acids and Peptides	0.586526453	Small peptides	0.685073972	Tripeptides	0.612872183
+Feature1231	Amino acids and Peptides	0.597034574	Small peptides	0.670154095	Tripeptides	0.57030654
+Feature1484	Amino acids and Peptides	0.749105871	Small peptides	0.729584217	Tripeptides	0.72101146
+Feature1675	Amino acids and Peptides	0.541733384	Small peptides	0.615771174	Tripeptides	0.505288422
+Feature1833	Amino acids and Peptides	0.674184024	Small peptides	0.676860273	Tripeptides	0.702478349
+Feature1964	Amino acids and Peptides	0.637082994	Small peptides	0.716426492	Tripeptides	0.70720309
+Feature2377	Amino acids and Peptides	0.611118257	Small peptides	0.728712559	Tripeptides	0.667209089
+Feature114	Amino acids and Peptides	0.238730833	Small peptides	0.572560847	Tripeptides	0.516611814
+Feature122	Amino acids and Peptides	0.562235236	Small peptides	0.681646168	Tripeptides	0.577154517
+Feature181	Amino acids and Peptides	0.964247286	Small peptides	0.96635288	Tripeptides	0.885345519
+Feature283	Amino acids and Peptides	0.946689725	Small peptides	0.963095486	Tripeptides	0.834710598
+Feature284	Amino acids and Peptides	0.382458121	Small peptides	0.704311013	Tripeptides	0.663502634
+Feature483	Amino acids and Peptides	0.765123963	Small peptides	0.874731243	Tripeptides	0.651187241
+Feature582	Amino acids and Peptides	0.832198441	Small peptides	0.914509594	Tripeptides	0.616831005
+Feature763	Amino acids and Peptides	0.74036938	Small peptides	0.754195988	Tripeptides	0.686836004
+Feature828	Amino acids and Peptides	0.535125375	Small peptides	0.504693508	Tripeptides	0.192521259
+Feature878	Amino acids and Peptides	0.434014201	Small peptides	0.39459157	Tripeptides	0.375174344
+Feature969	Amino acids and Peptides	0.613760769	Small peptides	0.64716959	Tripeptides	0.587352633
+Feature970	Carbohydrates	0.712786734	Nucleosides	0.549117565	Tripeptides	0.289376199
+Feature994	Amino acids and Peptides	0.600307047	Nucleosides	0.4669348	Tripeptides	0.473423719
+Feature1008	Amino acids and Peptides	0.757552028	Small peptides	0.871948838	Tripeptides	0.783001304
+Feature1016	Amino acids and Peptides	0.683124542	ÃŽÂ²-lactams	0.541864514	Tripeptides	0.50255698
+Feature1031	Amino acids and Peptides	0.554575562	Small peptides	0.680298746	Tripeptides	0.593652189
+Feature1075	Amino acids and Peptides	0.924535155	Small peptides	0.924062788	Tripeptides	0.858707607
+Feature1095	Amino acids and Peptides	0.692443371	Small peptides	0.663878679	Tripeptides	0.639938831
+Feature1184	Amino acids and Peptides	0.712651908	Small peptides	0.7643435	Tripeptides	0.684140086
+Feature1199	Amino acids and Peptides	0.591484189	Small peptides	0.569364607	Tripeptides	0.514174819
+Feature1208	Amino acids and Peptides	0.600027382	Small peptides	0.597823858	Tripeptides	0.536615849
+Feature1213	Amino acids and Peptides	0.47600919	Small peptides	0.559564352	Tripeptides	0.415610641
+Feature1240	Amino acids and Peptides	0.720001817	Small peptides	0.641484857	Tripeptides	0.673376501
+Feature1253	Alkaloids	0.591617227	Small peptides	0.237633258	Tripeptides	0.507895768
+Feature1255	Amino acids and Peptides	0.754230261	Small peptides	0.703331113	Tripeptides	0.529266953
+Feature1306	Carbohydrates	0.558864594	Nucleosides	0.496123552	Tripeptides	0.224441677
+Feature1320	Amino acids and Peptides	0.738010347	Small peptides	0.484482825	Tripeptides	0.530675828
+Feature1329	Amino acids and Peptides	0.821682215	Small peptides	0.677981675	Tripeptides	0.690699995
+Feature1348	Amino acids and Peptides	0.636205673	Nucleosides	0.476605862	Tripeptides	0.476171136
+Feature1356	Amino acids and Peptides	0.752298117	Small peptides	0.590610445	Tripeptides	0.609964371
+Feature1383	Amino acids and Peptides	0.676715791	Small peptides	0.681989074	Tripeptides	0.60731262
+Feature1406	Amino acids and Peptides	0.601956308	Small peptides	0.669115424	Tripeptides	0.751779497
+Feature1430	Amino acids and Peptides	0.737276733	Oligopeptides	0.268945247	Tripeptides	0.449034423
+Feature1456	Amino acids and Peptides	0.675283909	Small peptides	0.689409494	Tripeptides	0.637326241
+Feature1474	Amino acids and Peptides	0.810174882	Small peptides	0.430772066	Tripeptides	0.540833473
+Feature1493	Amino acids and Peptides	0.802941382	Small peptides	0.742506325	Tripeptides	0.659083247
+Feature1533	Amino acids and Peptides	0.770640016	Small peptides	0.551219761	Tripeptides	0.583047867
+Feature1542	Amino acids and Peptides	0.633096278	Small peptides	0.298291624	Tripeptides	0.319685191
+Feature1601	Amino acids and Peptides	0.63667953	Small peptides	0.639079452	Tripeptides	0.591763556
+Feature1729	Amino acids and Peptides	0.511047959	Small peptides	0.625300169	Tripeptides	0.592047155
+Feature1753	Amino acids and Peptides	0.434179068	Small peptides	0.430416614	Tripeptides	0.236916155
+Feature1801	Amino acids and Peptides	0.729379714	Small peptides	0.668301702	Tripeptides	0.67629391
+Feature1852	Amino acids and Peptides	0.716318369	Small peptides	0.571427047	Tripeptides	0.615120173
+Feature2006	Amino acids and Peptides	0.746985793	Small peptides	0.823561072	Tripeptides	0.783029377
+Feature2065	Amino acids and Peptides	0.787122011	Small peptides	0.743078768	Tripeptides	0.694426239
+Feature2125	Alkaloids	0.510165691	Small peptides	0.488251954	Tripeptides	0.259063274
+Feature2171	Amino acids and Peptides	0.868686438	Small peptides	0.77195853	Tripeptides	0.678794742
+Feature2281	Carbohydrates	0.613921225	Small peptides	0.510607064	Tripeptides	0.413555056
+Feature2725	Amino acids and Peptides	0.604380786	Small peptides	0.510836482	Tripeptides	0.54520005
+Feature3054	Amino acids and Peptides	0.752920568	Small peptides	0.471492767	Tripeptides	0.267996222
+Feature3060	Amino acids and Peptides	0.600174367	Small peptides	0.573824167	Tripeptides	0.562326133
+Feature3065	Amino acids and Peptides	0.707085311	Small peptides	0.855907738	Tripeptides	0.722945035
+Feature3516	Amino acids and Peptides	0.668804705	Small peptides	0.765688062	Tripeptides	0.634905159
+Feature2266	Alkaloids	0.794886649	Tryptophan alkaloids	0.489897668	Tropane alkaloids	0.103840575
+Feature70	unknown	unknown	unknown	unknown	unknown	unknown
+Feature109	unknown	unknown	unknown	unknown	unknown	unknown
+Feature116	unknown	unknown	unknown	unknown	unknown	unknown
+Feature126	unknown	unknown	unknown	unknown	unknown	unknown
+Feature131	unknown	unknown	unknown	unknown	unknown	unknown
+Feature133	unknown	unknown	unknown	unknown	unknown	unknown
+Feature149	unknown	unknown	unknown	unknown	unknown	unknown
+Feature154	unknown	unknown	unknown	unknown	unknown	unknown
+Feature155	unknown	unknown	unknown	unknown	unknown	unknown
+Feature158	unknown	unknown	unknown	unknown	unknown	unknown
+Feature160	unknown	unknown	unknown	unknown	unknown	unknown
+Feature182	unknown	unknown	unknown	unknown	unknown	unknown
+Feature188	unknown	unknown	unknown	unknown	unknown	unknown
+Feature191	unknown	unknown	unknown	unknown	unknown	unknown
+Feature202	unknown	unknown	unknown	unknown	unknown	unknown
+Feature207	unknown	unknown	unknown	unknown	unknown	unknown
+Feature221	unknown	unknown	unknown	unknown	unknown	unknown
+Feature230	unknown	unknown	unknown	unknown	unknown	unknown
+Feature231	unknown	unknown	unknown	unknown	unknown	unknown
+Feature233	unknown	unknown	unknown	unknown	unknown	unknown
+Feature236	unknown	unknown	unknown	unknown	unknown	unknown
+Feature242	unknown	unknown	unknown	unknown	unknown	unknown
+Feature249	unknown	unknown	unknown	unknown	unknown	unknown
+Feature253	unknown	unknown	unknown	unknown	unknown	unknown
+Feature315	unknown	unknown	unknown	unknown	unknown	unknown
+Feature388	unknown	unknown	unknown	unknown	unknown	unknown
+Feature424	unknown	unknown	unknown	unknown	unknown	unknown
+Feature439	unknown	unknown	unknown	unknown	unknown	unknown
+Feature520	unknown	unknown	unknown	unknown	unknown	unknown
+Feature536	unknown	unknown	unknown	unknown	unknown	unknown
+Feature565	unknown	unknown	unknown	unknown	unknown	unknown
+Feature626	unknown	unknown	unknown	unknown	unknown	unknown
+Feature663	unknown	unknown	unknown	unknown	unknown	unknown
+Feature675	unknown	unknown	unknown	unknown	unknown	unknown
+Feature702	unknown	unknown	unknown	unknown	unknown	unknown
+Feature715	unknown	unknown	unknown	unknown	unknown	unknown
+Feature846	unknown	unknown	unknown	unknown	unknown	unknown
+Feature880	unknown	unknown	unknown	unknown	unknown	unknown
+Feature905	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1133	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1501	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1752	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1922	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2041	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2081	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2325	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2326	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2477	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2511	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2512	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2538	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2604	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2654	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2857	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2898	unknown	unknown	unknown	unknown	unknown	unknown
+Feature3019	unknown	unknown	unknown	unknown	unknown	unknown
+Feature3043	unknown	unknown	unknown	unknown	unknown	unknown
+Feature3220	unknown	unknown	unknown	unknown	unknown	unknown
+Feature87	unknown	unknown	unknown	unknown	unknown	unknown
+Feature143	unknown	unknown	unknown	unknown	unknown	unknown
+Feature227	unknown	unknown	unknown	unknown	unknown	unknown
+Feature234	unknown	unknown	unknown	unknown	unknown	unknown
+Feature271	unknown	unknown	unknown	unknown	unknown	unknown
+Feature307	unknown	unknown	unknown	unknown	unknown	unknown
+Feature312	unknown	unknown	unknown	unknown	unknown	unknown
+Feature317	unknown	unknown	unknown	unknown	unknown	unknown
+Feature325	unknown	unknown	unknown	unknown	unknown	unknown
+Feature338	unknown	unknown	unknown	unknown	unknown	unknown
+Feature340	unknown	unknown	unknown	unknown	unknown	unknown
+Feature365	unknown	unknown	unknown	unknown	unknown	unknown
+Feature384	unknown	unknown	unknown	unknown	unknown	unknown
+Feature389	unknown	unknown	unknown	unknown	unknown	unknown
+Feature409	unknown	unknown	unknown	unknown	unknown	unknown
+Feature458	unknown	unknown	unknown	unknown	unknown	unknown
+Feature460	unknown	unknown	unknown	unknown	unknown	unknown
+Feature463	unknown	unknown	unknown	unknown	unknown	unknown
+Feature470	unknown	unknown	unknown	unknown	unknown	unknown
+Feature525	unknown	unknown	unknown	unknown	unknown	unknown
+Feature526	unknown	unknown	unknown	unknown	unknown	unknown
+Feature527	unknown	unknown	unknown	unknown	unknown	unknown
+Feature541	unknown	unknown	unknown	unknown	unknown	unknown
+Feature580	unknown	unknown	unknown	unknown	unknown	unknown
+Feature598	unknown	unknown	unknown	unknown	unknown	unknown
+Feature618	unknown	unknown	unknown	unknown	unknown	unknown
+Feature635	unknown	unknown	unknown	unknown	unknown	unknown
+Feature639	unknown	unknown	unknown	unknown	unknown	unknown
+Feature642	unknown	unknown	unknown	unknown	unknown	unknown
+Feature643	unknown	unknown	unknown	unknown	unknown	unknown
+Feature648	unknown	unknown	unknown	unknown	unknown	unknown
+Feature666	unknown	unknown	unknown	unknown	unknown	unknown
+Feature688	unknown	unknown	unknown	unknown	unknown	unknown
+Feature722	unknown	unknown	unknown	unknown	unknown	unknown
+Feature730	unknown	unknown	unknown	unknown	unknown	unknown
+Feature766	unknown	unknown	unknown	unknown	unknown	unknown
+Feature817	unknown	unknown	unknown	unknown	unknown	unknown
+Feature876	unknown	unknown	unknown	unknown	unknown	unknown
+Feature888	unknown	unknown	unknown	unknown	unknown	unknown
+Feature908	unknown	unknown	unknown	unknown	unknown	unknown
+Feature915	unknown	unknown	unknown	unknown	unknown	unknown
+Feature918	unknown	unknown	unknown	unknown	unknown	unknown
+Feature927	unknown	unknown	unknown	unknown	unknown	unknown
+Feature932	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1059	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1085	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1086	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1101	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1151	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1157	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1274	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1325	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1335	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1358	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1494	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1607	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1654	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1673	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1786	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1808	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1861	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1945	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2106	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2120	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2205	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2283	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2370	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2371	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2381	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2383	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2459	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2514	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2761	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2853	unknown	unknown	unknown	unknown	unknown	unknown
+Feature3024	unknown	unknown	unknown	unknown	unknown	unknown
+Feature3089	unknown	unknown	unknown	unknown	unknown	unknown
+Feature3171	unknown	unknown	unknown	unknown	unknown	unknown
+Feature3342	unknown	unknown	unknown	unknown	unknown	unknown
+Feature3380	unknown	unknown	unknown	unknown	unknown	unknown
+Feature123	unknown	unknown	unknown	unknown	unknown	unknown
+Feature132	unknown	unknown	unknown	unknown	unknown	unknown
+Feature250	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1407	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1715	unknown	unknown	unknown	unknown	unknown	unknown
+Feature190	unknown	unknown	unknown	unknown	unknown	unknown
+Feature255	unknown	unknown	unknown	unknown	unknown	unknown
+Feature260	unknown	unknown	unknown	unknown	unknown	unknown
+Feature262	unknown	unknown	unknown	unknown	unknown	unknown
+Feature286	unknown	unknown	unknown	unknown	unknown	unknown
+Feature290	unknown	unknown	unknown	unknown	unknown	unknown
+Feature329	unknown	unknown	unknown	unknown	unknown	unknown
+Feature387	unknown	unknown	unknown	unknown	unknown	unknown
+Feature391	unknown	unknown	unknown	unknown	unknown	unknown
+Feature395	unknown	unknown	unknown	unknown	unknown	unknown
+Feature404	unknown	unknown	unknown	unknown	unknown	unknown
+Feature405	unknown	unknown	unknown	unknown	unknown	unknown
+Feature425	unknown	unknown	unknown	unknown	unknown	unknown
+Feature451	unknown	unknown	unknown	unknown	unknown	unknown
+Feature452	unknown	unknown	unknown	unknown	unknown	unknown
+Feature514	unknown	unknown	unknown	unknown	unknown	unknown
+Feature517	unknown	unknown	unknown	unknown	unknown	unknown
+Feature597	unknown	unknown	unknown	unknown	unknown	unknown
+Feature608	unknown	unknown	unknown	unknown	unknown	unknown
+Feature904	unknown	unknown	unknown	unknown	unknown	unknown
+Feature916	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1025	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1087	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1202	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1223	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1241	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1294	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1324	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1332	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1379	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1447	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1481	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1515	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1519	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1525	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1534	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1543	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1546	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1564	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1578	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1598	unknown	unknown	unknown	unknown	unknown	unknown
+Feature1622	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2225	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2239	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2243	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2256	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2305	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2671	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2861	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2872	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2876	unknown	unknown	unknown	unknown	unknown	unknown
+Feature3079	unknown	unknown	unknown	unknown	unknown	unknown
+Feature3085	unknown	unknown	unknown	unknown	unknown	unknown
+Feature3183	unknown	unknown	unknown	unknown	unknown	unknown
+Feature3483	unknown	unknown	unknown	unknown	unknown	unknown
+Feature2029	Fatty acids	0.510293663	Fatty Acids and Conjugates	0.519761801	Unsaturated fatty acids	0.410645783
+Feature2603	Fatty acids	0.568987072	Fatty Acids and Conjugates	0.647551119	Unsaturated fatty acids	0.762911797
+Feature3467	Fatty acids	0.876393139	Fatty Acids and Conjugates	0.646640003	Unsaturated fatty acids	0.673382699
+Feature1744	Fatty acids	0.561550498	Fatty Acids and Conjugates	0.614324987	Unsaturated fatty acids	0.575638711
+Feature2110	Fatty acids	0.793933928	Fatty Acids and Conjugates	0.874472916	Unsaturated fatty acids	0.933505177
+Feature2160	Fatty acids	0.752769947	Fatty Acids and Conjugates	0.795986295	Unsaturated fatty acids	0.676420391
+Feature2207	Fatty acids	0.851655364	Fatty Acids and Conjugates	0.865313053	Unsaturated fatty acids	0.750767946
+Feature2245	Fatty acids	0.755703211	Fatty Acids and Conjugates	0.818321168	Unsaturated fatty acids	0.921632826
+Feature2428	Fatty acids	0.778302848	Fatty Acids and Conjugates	0.825533569	Unsaturated fatty acids	0.92006731
+Feature2432	Fatty acids	0.782779217	Fatty Acids and Conjugates	0.706184566	Unsaturated fatty acids	0.874711215
+Feature2651	Fatty acids	0.663695514	Fatty Acids and Conjugates	0.583156586	Unsaturated fatty acids	0.740474403
+Feature2746	Fatty acids	0.769307256	Fatty Acids and Conjugates	0.736090481	Unsaturated fatty acids	0.874549329
+Feature2820	Terpenoids	0.570408702	Sesquiterpenoids	0.445106417	Unsaturated fatty acids	0.304727435
+Feature3318	Fatty acids	0.69240427	Fatty Acids and Conjugates	0.720962584	Unsaturated fatty acids	0.864202678
+Feature474	Fatty acids	0.417853266	Small peptides	0.307982653	Wax monoesters	0.343631864
+Feature1597	Fatty acids	0.612376153	Fatty Acids and Conjugates	0.380703181	Wax monoesters	0.331510186
