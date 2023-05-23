@@ -1,0 +1,181 @@
+SampleID	Nitrate_supplement	Genotype	Alleles	Compartments	bio_replicate	tech_replicate
+chit5.3.r.1.1	none	chit5	chit5-3	root	1	1
+chit5.3.r.1.2	none	chit5	chit5-3	root	1	2
+chit5.3.r.2.1	none	chit5	chit5-3	root	2	1
+chit5.3.r.2.2	none	chit5	chit5-3	root	2	2
+chit5.3.r.3.1	none	chit5	chit5-3	root	3	1
+chit5.3.r.3.2	none	chit5	chit5-3	root	3	2
+chit5.3.rh.1.1	none	chit5	chit5-3	rhizosphere	1	1
+chit5.3.rh.1.2	none	chit5	chit5-3	rhizosphere	1	2
+chit5.3.rh.2.1	none	chit5	chit5-3	rhizosphere	2	1
+chit5.3.rh.2.2	none	chit5	chit5-3	rhizosphere	2	2
+chit5.3.rh.3.1	none	chit5	chit5-3	rhizosphere	3	1
+chit5.3.rh.3.2	none	chit5	chit5-3	rhizosphere	3	2
+chit5.n1.1	none	chit5	chit5-2	nodules	1	1
+chit5.n1.2	none	chit5	chit5-2	nodules	1	2
+chit5.n1.3	none	chit5	chit5-2	nodules	1	3
+chit5.n2.1	none	chit5	chit5-2	nodules	2	1
+chit5.n2.2	none	chit5	chit5-2	nodules	2	2
+chit5.n2.3	none	chit5	chit5-2	nodules	2	3
+chit5.n3.1	none	chit5	chit5-2	nodules	3	1
+chit5.n3.2	none	chit5	chit5-2	nodules	3	2
+chit5.n3.3	none	chit5	chit5-2	nodules	3	3
+chit5.r1.1	none	chit5	chit5-2	root	1	1
+chit5.r1.2	none	chit5	chit5-2	root	1	2
+chit5.r1.3	none	chit5	chit5-2	root	1	3
+chit5.r2.1	none	chit5	chit5-2	root	2	1
+chit5.r2.2	none	chit5	chit5-2	root	2	2
+chit5.r2.3	none	chit5	chit5-2	root	2	3
+chit5.r3.1	none	chit5	chit5-2	root	3	1
+chit5.r3.2	none	chit5	chit5-2	root	3	2
+chit5.r3.3	none	chit5	chit5-2	root	3	3
+chit5.rh1.1	none	chit5	chit5-2	rhizosphere	1	1
+chit5.rh1.2	none	chit5	chit5-2	rhizosphere	1	2
+chit5.rh1.3	none	chit5	chit5-2	rhizosphere	1	3
+chit5.rh2.1	none	chit5	chit5-2	rhizosphere	2	1
+chit5.rh2.2	none	chit5	chit5-2	rhizosphere	2	2
+chit5.rh2.3	none	chit5	chit5-2	rhizosphere	2	3
+chit5.rh3.1	none	chit5	chit5-2	rhizosphere	3	1
+chit5.rh3.2	none	chit5	chit5-2	rhizosphere	3	2
+chit5.rh3.3	none	chit5	chit5-2	rhizosphere	3	3
+g.n1.1	none	Gifu	Gifu	nodules	1	1
+g.n1.2	none	Gifu	Gifu	nodules	1	2
+g.n1.3	none	Gifu	Gifu	nodules	1	3
+g.n2.1	none	Gifu	Gifu	nodules	2	1
+g.n2.2	none	Gifu	Gifu	nodules	2	2
+g.n2.3	none	Gifu	Gifu	nodules	2	3
+g.n3.1	none	Gifu	Gifu	nodules	3	1
+g.n3.2	none	Gifu	Gifu	nodules	3	2
+g.n3.3	none	Gifu	Gifu	nodules	3	3
+g.r1.1	none	Gifu	Gifu	root	1	1
+g.r1.2	none	Gifu	Gifu	root	1	2
+g.r1.3	none	Gifu	Gifu	root	1	3
+g.r2.1	none	Gifu	Gifu	root	2	1
+g.r2.2	none	Gifu	Gifu	root	2	2
+g.r2.3	none	Gifu	Gifu	root	2	3
+g.r3.1	none	Gifu	Gifu	root	3	1
+g.r3.2	none	Gifu	Gifu	root	3	2
+g.r3.3	none	Gifu	Gifu	root	3	3
+g.rh1.1	none	Gifu	Gifu	rhizosphere	1	1
+g.rh1.2	none	Gifu	Gifu	rhizosphere	1	2
+g.rh1.3	none	Gifu	Gifu	rhizosphere	1	3
+g.rh2.1	none	Gifu	Gifu	rhizosphere	2	1
+g.rh2.2	none	Gifu	Gifu	rhizosphere	2	2
+g.rh2.3	none	Gifu	Gifu	rhizosphere	2	3
+g.rh3.1	none	Gifu	Gifu	rhizosphere	3	1
+g.rh3.2	none	Gifu	Gifu	rhizosphere	3	2
+g.rh3.3	none	Gifu	Gifu	rhizosphere	3	3
+N.chit5.r.1.2	10 mM KNO3	chit5	chit5-3	root	2	1
+N.chit5.r.1.3	10 mM KNO3	chit5	chit5-3	root	3	1
+N.chit5.r.2.1	10 mM KNO3	chit5	chit5-3	root	1	2
+N.chit5.r.2.2	10 mM KNO3	chit5	chit5-3	root	2	2
+N.chit5.r.2.3	10 mM KNO3	chit5	chit5-3	root	3	2
+N.chit5.rh.1.1	10 mM KNO3	chit5	chit5-3	rhizosphere	1	1
+N.chit5.rh.1.2	10 mM KNO3	chit5	chit5-3	rhizosphere	2	1
+N.chit5.rh.1.3	10 mM KNO3	chit5	chit5-3	rhizosphere	3	1
+N.chit5.rh.2.1	10 mM KNO3	chit5	chit5-3	rhizosphere	1	2
+N.chit5.rh.2.2	10 mM KNO3	chit5	chit5-3	rhizosphere	2	2
+N.chit5.rh.2.3	10 mM KNO3	chit5	chit5-3	rhizosphere	3	2
+N.G.r.1.1	10 mM KNO3	Gifu	Gifu	root	1	1
+N.G.r.1.2	10 mM KNO3	Gifu	Gifu	root	2	1
+N.G.r.1.3	10 mM KNO3	Gifu	Gifu	root	3	1
+N.G.r.2.1	10 mM KNO3	Gifu	Gifu	root	1	2
+N.G.r.2.2	10 mM KNO3	Gifu	Gifu	root	2	2
+N.G.r.2.3	10 mM KNO3	Gifu	Gifu	root	3	2
+N.G.rh.1.1	10 mM KNO3	Gifu	Gifu	rhizosphere	1	1
+N.G.rh.1.2	10 mM KNO3	Gifu	Gifu	rhizosphere	2	1
+N.G.rh.1.3	10 mM KNO3	Gifu	Gifu	rhizosphere	3	1
+N.G.rh.2.1	10 mM KNO3	Gifu	Gifu	rhizosphere	1	2
+N.G.rh.2.2	10 mM KNO3	Gifu	Gifu	rhizosphere	2	2
+N.G.rh.2.3	10 mM KNO3	Gifu	Gifu	rhizosphere	3	2
+N.nfr5.r.1.1	10 mM KNO3	nfr5	nfr5-2	root	1	1
+N.nfr5.r.1.2	10 mM KNO3	nfr5	nfr5-2	root	2	1
+N.nfr5.r.1.3	10 mM KNO3	nfr5	nfr5-2	root	3	1
+N.nfr5.r.2.1	10 mM KNO3	nfr5	nfr5-2	root	1	2
+N.nfr5.r.2.2	10 mM KNO3	nfr5	nfr5-2	root	2	2
+N.nfr5.r.2.3	10 mM KNO3	nfr5	nfr5-2	root	3	2
+N.nfr5.rh.1.1	10 mM KNO3	nfr5	nfr5-2	rhizosphere	1	1
+N.nfr5.rh.1.2	10 mM KNO3	nfr5	nfr5-2	rhizosphere	2	1
+N.nfr5.rh.1.3	10 mM KNO3	nfr5	nfr5-2	rhizosphere	3	1
+N.nfr5.rh.2.1	10 mM KNO3	nfr5	nfr5-2	rhizosphere	1	2
+N.nfr5.rh.2.2	10 mM KNO3	nfr5	nfr5-2	rhizosphere	2	2
+N.nfr5.rh.2.3	10 mM KNO3	nfr5	nfr5-2	rhizosphere	3	2
+N.nfre.r.1.2	10 mM KNO3	nfre	nfre-1	root	2	1
+N.nfre.r.1.3	10 mM KNO3	nfre	nfre-1	root	3	1
+N.nfre.r.2.1	10 mM KNO3	nfre	nfre-1	root	1	2
+N.nfre.r.2.2	10 mM KNO3	nfre	nfre-1	root	2	2
+N.nfre.r.2.3	10 mM KNO3	nfre	nfre-1	root	3	2
+N.nfre.rh.1.1	10 mM KNO3	nfre	nfre-1	rhizosphere	1	1
+N.nfre.rh.1.3	10 mM KNO3	nfre	nfre-1	rhizosphere	3	1
+N.nfre.rh.2.1	10 mM KNO3	nfre	nfre-1	rhizosphere	1	2
+N.nfre.rh.2.2	10 mM KNO3	nfre	nfre-1	rhizosphere	2	2
+N.nfre.rh.2.3	10 mM KNO3	nfre	nfre-1	rhizosphere	3	2
+N.s.1.1	10 mM KNO3	soil	soil	soil	1	1
+N.s.1.2	10 mM KNO3	soil	soil	soil	2	1
+N.s.1.3	10 mM KNO3	soil	soil	soil	3	1
+N.s.2.1	10 mM KNO3	soil	soil	soil	1	2
+N.s.2.2	10 mM KNO3	soil	soil	soil	2	2
+N.s.2.3	10 mM KNO3	soil	soil	soil	3	2
+nfr5.r1.1	none	nfr5	nfr5-2	root	1	1
+nfr5.r1.2	none	nfr5	nfr5-2	root	1	2
+nfr5.r1.3	none	nfr5	nfr5-2	root	1	3
+nfr5.r2.1	none	nfr5	nfr5-2	root	2	1
+nfr5.r2.2	none	nfr5	nfr5-2	root	2	2
+nfr5.r2.3	none	nfr5	nfr5-2	root	2	3
+nfr5.r3.1	none	nfr5	nfr5-2	root	3	1
+nfr5.r3.2	none	nfr5	nfr5-2	root	3	2
+nfr5.r3.3	none	nfr5	nfr5-2	root	3	3
+nfr5.rh1.1	none	nfr5	nfr5-2	rhizosphere	1	1
+nfr5.rh1.2	none	nfr5	nfr5-2	rhizosphere	1	2
+nfr5.rh1.3	none	nfr5	nfr5-2	rhizosphere	1	3
+nfr5.rh2.1	none	nfr5	nfr5-2	rhizosphere	2	1
+nfr5.rh2.2	none	nfr5	nfr5-2	rhizosphere	2	2
+nfr5.rh2.3	none	nfr5	nfr5-2	rhizosphere	2	3
+nfr5.rh3.1	none	nfr5	nfr5-2	rhizosphere	3	1
+nfr5.rh3.2	none	nfr5	nfr5-2	rhizosphere	3	2
+nfr5.rh3.3	none	nfr5	nfr5-2	rhizosphere	3	3
+nfre.n1.1	none	nfre	nfre-1	nodules	1	1
+nfre.n1.2	none	nfre	nfre-1	nodules	1	2
+nfre.n1.3	none	nfre	nfre-1	nodules	1	3
+nfre.n2.1	none	nfre	nfre-1	nodules	2	1
+nfre.n2.2	none	nfre	nfre-1	nodules	2	2
+nfre.n2.3	none	nfre	nfre-1	nodules	2	3
+nfre.n3.1	none	nfre	nfre-1	nodules	3	1
+nfre.n3.2	none	nfre	nfre-1	nodules	3	2
+nfre.n3.3	none	nfre	nfre-1	nodules	3	3
+nfre.r1.1	none	nfre	nfre-1	root	1	1
+nfre.r1.2	none	nfre	nfre-1	root	1	2
+nfre.r1.3	none	nfre	nfre-1	root	1	3
+nfre.r2.1	none	nfre	nfre-1	root	2	1
+nfre.r2.2	none	nfre	nfre-1	root	2	2
+nfre.r2.3	none	nfre	nfre-1	root	2	3
+nfre.r3.1	none	nfre	nfre-1	root	3	1
+nfre.r3.2	none	nfre	nfre-1	root	3	2
+nfre.r3.3	none	nfre	nfre-1	root	3	3
+nfre2.r.1.1	none	nfre	nfre-2	root	1	1
+nfre2.r.1.2	none	nfre	nfre-2	root	1	2
+nfre2.r.1.3	none	nfre	nfre-2	root	1	3
+nfre2.r.2.1	none	nfre	nfre-2	root	2	1
+nfre2.r.2.2	none	nfre	nfre-2	root	2	2
+nfre2.r.2.3	none	nfre	nfre-2	root	2	3
+nfre2.rh.1.1	none	nfre	nfre-2	rhizosphere	1	1
+nfre2.rh.1.2	none	nfre	nfre-2	rhizosphere	1	2
+nfre2.rh.1.3	none	nfre	nfre-2	rhizosphere	1	3
+nfre2.rh.2.1	none	nfre	nfre-2	rhizosphere	2	1
+nfre2.rh.2.2	none	nfre	nfre-2	rhizosphere	2	2
+nfre2.rh.2.3	none	nfre	nfre-2	rhizosphere	2	3
+nfre3.r.1.1	none	nfre	nfre-3	root	1	1
+nfre3.r.1.2	none	nfre	nfre-3	root	1	2
+nfre3.r.2.1	none	nfre	nfre-3	root	2	1
+nfre3.r.2.2	none	nfre	nfre-3	root	2	2
+nfre3.rh.2.1	none	nfre	nfre-3	rhizosphere	2	1
+nfre3.rh.2.2	none	nfre	nfre-3	rhizosphere	2	2
+soil1.1	none	soil	soil	soil	1	1
+soil1.2	none	soil	soil	soil	1	2
+soil1.3	none	soil	soil	soil	1	3
+soil2.1	none	soil	soil	soil	2	1
+soil2.2	none	soil	soil	soil	2	2
+soil2.3	none	soil	soil	soil	2	3
+soil3.1	none	soil	soil	soil	3	1
+soil3.2	none	soil	soil	soil	3	2
+soil3.3	none	soil	soil	soil	3	3
